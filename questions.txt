@@ -1,0 +1,952 @@
+1. Welchen Nutzen hat das Luhmannsche Ebenenmodell?
+A) Es beschreibt ausschließlich psychische Prozesse
+B) Es erklärt, wie Organisationen Entscheidungen treffen
+C) Es zeigt, dass unterschiedliche Systemebenen eigenständig funktionieren
+D) Es ersetzt psychologische Modelle der Motivation
+✅ Richtige Antwort: C
+📝 Das Modell differenziert psychische, soziale und technische Systeme – jede folgt eigener Logik.
+
+2. Was sind empirische Wissenschaften?
+A) Sie stützen sich auf reine Logik
+B) Sie entwickeln ausschließlich Theorien
+C) Sie basieren auf systematischer Beobachtung und Datenanalyse
+D) Sie betreiben Meinungsforschung
+✅ Richtige Antwort: C
+📝 Empirische Wissenschaften prüfen Hypothesen anhand von Beobachtung, Messung und Auswertung.
+
+3. Was untersucht die Wirtschaftspsychologie laut Ebenenmodell?
+A) Nur Marktprozesse
+B) Das Verhalten im Konsum- und Arbeitskontext auf verschiedenen Ebenen
+C) Psychologische Diagnostik
+D) Technische Entwicklungen im HR
+✅ Richtige Antwort: B
+📝 Sie analysiert Verhalten auf psychischer, sozialer und technischer Ebene im Wirtschaftskontext.
+
+4. Was sind funktionale im Unterschied zu kausalen Zusammenhängen?
+A) Funktionale Zusammenhänge gelten nur im Labor
+B) Kausale Zusammenhänge beschreiben bloße Korrelationen
+C) Funktionale Zusammenhänge zeigen Regelmäßigkeiten, kausale zeigen Ursache-Wirkung
+D) Es gibt keinen Unterschied
+✅ Richtige Antwort: C
+📝 Kausalität erfordert Experimente; funktionale Zusammenhänge basieren auf beobachteten Regelmäßigkeiten.
+
+5. Was ist der Primacy-Effekt?
+A) Das Vergessen späterer Informationen
+B) Der Einfluss von Erwartungen auf Wahrnehmung
+C) Die bessere Erinnerung an zuerst präsentierte Informationen
+D) Eine Form des operanten Lernens
+✅ Richtige Antwort: C
+📝 Frühe Informationen bleiben besser im Gedächtnis – z. B. bei Wortlisten.
+
+6. Was ist Priming?
+A) Eine Gedächtnisstörung
+B) Die Erhöhung der Aufmerksamkeit durch Belohnung
+C) Die Beeinflussung durch einen vorausgehenden Reiz
+D) Die Kontrolle über Triebimpulse
+✅ Richtige Antwort: C
+📝 Ein vorheriger Reiz beeinflusst die Verarbeitung nachfolgender Informationen oder Handlungen.
+
+7. Was ist klassisches Konditionieren?
+A) Lernen durch Nachahmung
+B) Lernen durch Einsicht
+C) Lernen durch Verstärkung
+D) Lernen durch Verknüpfung zweier Reize
+✅ Richtige Antwort: D
+📝 Ein neutraler Reiz wird durch Kopplung mit einem bedeutungsvollen Reiz zu einem Auslöser.
+
+8. Was ist operantes Konditionieren?
+A) Lernen durch Belohnung oder Bestrafung
+B) Lernen durch passive Aufnahme von Wissen
+C) Lernen durch Sprache
+D) Lernen durch Hypnose
+✅ Richtige Antwort: A
+📝 Verhalten wird durch Konsequenzen – Verstärkung oder Bestrafung – beeinflusst.
+
+9. Was ist Modelllernen?
+A) Lernen durch Versuch und Irrtum
+B) Lernen durch Reflexe
+C) Lernen durch Einsicht
+D) Lernen durch Beobachtung und Nachahmung
+✅ Richtige Antwort: D
+📝 Menschen lernen durch das Beobachten anderer (z. B. Vorbilder).
+
+10. Was ist der fundamentale Attributionsfehler?
+A) Eigene Fehler systematisch unterschätzen
+B) Verhalten anderer situativ erklären
+C) Verhalten anderer internal erklären, statt situativ
+D) Verhalten selbst falsch erinnern
+✅ Richtige Antwort: C
+📝 Wir schreiben das Verhalten anderer eher deren Charakter zu, statt äußeren Umständen.
+
+11. Was ist ein Beispiel für den Unterschied zwischen 'Logik' und 'Psycho-Logik'?
+A) Psycho-Logik beruht ausschließlich auf formaler Argumentation
+B) Logik meint emotionale Bewertungen
+C) Psycho-Logik folgt subjektiven, oft emotionalen Mustern
+D) Es gibt keinen Unterschied
+✅ Richtige Antwort: C
+📝 Psycho-Logik beschreibt Denkweisen, die emotional oder erfahrungsbasiert sind – auch wenn sie objektiv „unlogisch“ erscheinen.
+
+12. Welcher Körpersaft ist dem sanguinischen Temperament zugeordnet?
+A) Galle
+B) Schwarze Galle
+C) Schleim
+D) Blut
+✅ Richtige Antwort: D
+📝 Der Sanguiniker ist heiter und gesellig – diese Eigenschaften wurden mit dem Blut assoziiert.
+
+13. Was beschreibt die Dimension „Neurotizismus“ nach Eysenck?
+A) Die Fähigkeit zu lernen
+B) Emotionale Stabilität oder Labilität einer Person
+C) Soziale Verträglichkeit
+D) Intelligenz
+✅ Richtige Antwort: B
+📝 Neurotizismus erfasst, wie emotional belastbar oder verletzlich jemand ist.
+
+14. Welches Temperament ist laut Eysenck introvertiert und emotional stabil?
+A) Sanguiniker
+B) Choleriker
+C) Phlegmatiker
+D) Melancholiker
+✅ Richtige Antwort: C
+📝 Der Phlegmatiker ist ruhig und zuverlässig – Eigenschaften, die auf emotionale Stabilität und Introversion hinweisen.
+
+15. Was beschreibt das klassische Attributionsschema von Weiner?
+A) Priming, Belohnung, Gedächtnis
+B) Lokation, Stabilität, Kontrollierbarkeit
+C) Emotion, Verhalten, Feedback
+D) Motivation, Ziel, Verhalten
+✅ Richtige Antwort: B
+📝 Weiner unterscheidet, ob Ursachen intern/extern, stabil/variabel und kontrollierbar/nicht kontrollierbar sind.
+
+16. Wie verhalten sich misserfolgsängstliche Personen laut Weiner?
+A) Sie schreiben Misserfolge externen Ursachen zu
+B) Sie machen Glück für Erfolge verantwortlich
+C) Sie schreiben Misserfolge stabilen, internen Ursachen zu
+D) Sie lernen aus Misserfolgen
+✅ Richtige Antwort: C
+📝 Misserfolgsängstliche Menschen glauben, dass sie Misserfolg durch eigene, unveränderbare Eigenschaften verursachen.
+
+17. Welche Aussage entspricht dem Menschenbild des „Economic Man“?
+A) Der Mensch ist von Natur aus kreativ
+B) Der Mensch ist faul und reagiert auf Kontrolle und materielle Anreize
+C) Der Mensch sucht soziale Bindungen
+D) Der Mensch will sich selbst verwirklichen
+✅ Richtige Antwort: B
+📝 Der „Economic Man“ folgt tayloristischen Prinzipien – der Mensch funktioniert effizient unter Druck und Belohnung.
+
+18. Wer war eine zentrale Figur der Human-Relations-Bewegung?
+A) Sigmund Freud
+B) Max Weber
+C) Elton Mayo
+D) Abraham Maslow
+✅ Richtige Antwort: C
+📝 Elton Mayo zeigte mit den Hawthorne-Studien, wie wichtig soziale Anerkennung am Arbeitsplatz ist.
+
+19. Welcher Forscher ist mit dem „Self-actualizing Man“ verbunden?
+A) Paul Watzlawick
+B) Abraham Maslow
+C) Kurt Lewin
+D) Hugo Münsterberg
+✅ Richtige Antwort: B
+📝 Maslow prägte mit seiner Bedürfnispyramide das Bild vom Menschen als selbstverwirklichendes Wesen.
+
+20. Was kennzeichnet den „Complex Man“?
+A) Er ist einfach zu führen
+B) Er ist nur durch materielle Anreize motivierbar
+C) Er ist flexibel, situationsabhängig motiviert und lernfähig
+D) Er bevorzugt autoritäre Führung
+✅ Richtige Antwort: C
+📝 Der Complex Man passt sich an Kontexte an – er ist dynamisch und individuell motiviert.
+
+21. Was kennzeichnet den „Virtual Man“ laut Menschenbild-Modell?
+A) Er lebt völlig analog und zurückgezogen
+B) Er reagiert nur auf Kontrolle
+C) Er ist digital vernetzt, mobil und kooperativ
+D) Er folgt streng hierarchischen Strukturen
+
+✅ Richtige Antwort: C
+📝 Der Virtual Man agiert in virtuellen und realen Netzwerken – vernetzt, flexibel, eigenverantwortlich.
+
+22. Was besagt das erste Axiom von Paul Watzlawick?
+A) Kommunikation erfolgt nur mit Sprache
+B) Kommunikation kann unterbrochen werden
+C) Man kann nicht nicht kommunizieren
+D) Nur bewusste Kommunikation zählt
+
+✅ Richtige Antwort: C
+📝 Jedes Verhalten hat Mitteilungscharakter – selbst Schweigen oder Abwenden sendet eine Botschaft.
+
+23. Was bedeutet das zweite Axiom nach Watzlawick?
+A) Kommunikation ist einseitig
+B) Es gibt nur Inhalt, keine Beziehung
+C) Beziehung bestimmt, wie der Inhalt zu verstehen ist
+D) Nonverbale Kommunikation ist unwichtig
+
+✅ Richtige Antwort: C
+📝 Die Beziehungsebene beeinflusst die Interpretation des Inhalts.
+
+24. Was beschreibt das Vier-Ohren-Modell auf der „Appellebene“?
+A) Der Sprecher sagt etwas über sich
+B) Der Sprecher will etwas erreichen oder bewirken
+C) Es geht nur um neutrale Fakten
+D) Es geht um Beziehungskonflikte
+
+✅ Richtige Antwort: B
+📝 Auf der Appellebene steckt in jeder Aussage ein Wunsch oder eine Handlungsaufforderung.
+
+25. Was fördert laut GuPF-Modell intrinsische Motivation?
+A) Kontrolle durch Vorgesetzte
+B) Ganzheitlichkeit, Unmittelbarkeit, Personenbezug, Förderlichkeit
+C) Leistungsdruck und externe Belohnungen
+D) Routinetätigkeiten ohne Feedback
+
+✅ Richtige Antwort: B
+📝 Diese vier Merkmale gestalten Arbeit sinnstiftend, entwicklungsfördernd und motivierend.
+
+26. Was ist ein zentrales Merkmal teilautonomer Arbeitsgruppen?
+A) Sie führen nur monotone Einzelaufgaben aus
+B) Sie werden streng von außen gesteuert
+C) Sie übernehmen selbst Verantwortung für Planung und Kontrolle
+D) Sie sind ausschließlich virtuell organisiert
+
+✅ Richtige Antwort: C
+📝 Teilautonome Teams arbeiten eigenverantwortlich und gestalten ihre Prozesse selbst.
+
+27. Welches Motiv gehört nicht zu McClellands Theorie?
+A) Leistungsmotiv
+B) Anschlussmotiv
+C) Selbstverwirklichungsmotiv
+D) Machtmotiv
+
+✅ Richtige Antwort: C
+📝 McClelland beschreibt drei soziale Motive: Leistung, Macht, Anschluss – Selbstverwirklichung gehört zu Maslow.
+
+28. Was bedeutet „prospektive Arbeitsgestaltung“?
+A) Probleme werden im Nachhinein korrigiert
+B) Belastungen werden kurzfristig gemessen
+C) Es geht um die Förderung von Entwicklung und Gesundheit
+D) Es werden nur Symptome behandelt
+
+✅ Richtige Antwort: C
+📝 Prospektiv bedeutet: vorausschauend und entwicklungsförderlich gestalten, nicht nur Mängel beheben.
+
+29. Was ist typisch für den Führungsstil „Überzeugen (selling)“ im Reifegradmodell?
+A) Mitarbeiter bekommen keine Erklärung
+B) Die Führungskraft gibt nur Befehle
+C) Die Führungskraft begründet und motiviert Aufgaben
+D) Führung wird komplett abgegeben
+
+✅ Richtige Antwort: C
+📝 Bei mittlerer Reife wird erklärt, motiviert und überzeugt – mehr Beteiligung als beim Anweisen.
+
+30. Was meint „kairologische Führung“?
+A) Führung nach der Uhrzeit
+B) Kontrolle durch Zeitpläne
+C) Nutzung des richtigen Moments für wirksames Handeln
+D) Lenkung durch Hierarchie
+
+✅ Richtige Antwort: C
+📝 Kairologische Führung nutzt die Qualität des Moments – z. B. ein Lob im passenden Augenblick.
+
+31. Was beschreibt das 9.9-Führungsmodell (Managerial Grid)?
+A) Es zeigt die Balance zwischen Lohn und Kontrolle
+B) Es verknüpft emotionale Intelligenz mit Fachwissen
+C) Es kombiniert hohe Mitarbeiter- und hohe Aufgabenorientierung
+D) Es beschreibt ein autoritäres Führungsprinzip
+
+✅ Richtige Antwort: C
+📝 Das ideale Führungsverhalten liegt bei maximaler Aufgaben- und Mitarbeiterorientierung (9.9).
+
+32. Welche Emotion gehört laut Paul Ekman zu den Basisemotionen?
+A) Stolz
+B) Hoffnung
+C) Verachtung
+D) Neid
+
+✅ Richtige Antwort: C
+📝 Verachtung ist eine der sieben Basisemotionen, die kulturübergreifend auftreten und mimisch erkennbar sind.
+
+33. Welche Theorie stammt von Schachter & Singer?
+A) Zwei-Faktoren-Theorie der Emotion
+B) Triebtheorie der Emotion
+C) James-Lange-Theorie
+D) Bedürfnispyramide
+
+✅ Richtige Antwort: A
+📝 Emotion entsteht laut Schachter & Singer aus physiologischer Erregung und kognitiver Bewertung.
+
+34. Was beschreibt die kognitive Komponente der Zwei-Faktoren-Theorie?
+A) Muskelanspannung
+B) Reizaufnahme
+C) Bewertung der Situation
+D) Biochemische Prozesse
+
+✅ Richtige Antwort: C
+📝 Die Interpretation der Erregung entscheidet darüber, ob man z. B. Angst oder Freude empfindet.
+
+35. Was ist laut GuPF-Modell ein Schutzfaktor gegen Burnout?
+A) Routinetätigkeit
+B) Ganzheitlichkeit
+C) Kontrolle durch andere
+D) Zeitdruck
+
+✅ Richtige Antwort: B
+📝 Ganzheitliche Aufgaben machen den Sinn der Tätigkeit erfahrbar und schützen vor Entfremdung.
+
+36. Welche Instanz nach Freud folgt dem Lustprinzip?
+A) Ich
+B) Über-Ich
+C) Es
+D) Selbst
+
+✅ Richtige Antwort: C
+📝 Das Es ist der unbewusste Teil der Psyche, der nach unmittelbarer Bedürfnisbefriedigung strebt.
+
+37. Welche Funktion hat das Ich im Freud’schen Instanzenmodell?
+A) Moralischer Richter
+B) Quelle der Triebe
+C) Vermittler zwischen Es, Über-Ich und Realität
+D) Unbewusstes Zentrum
+
+✅ Richtige Antwort: C
+📝 Das Ich balanciert zwischen Trieben, Normen und realen Anforderungen – es vermittelt und plant.
+
+38. In welcher Phase der psychosexuellen Entwicklung wird laut Freud der Ödipuskomplex durchlebt?
+A) Orale Phase
+B) Anale Phase
+C) Phallische Phase
+D) Latenzphase
+
+✅ Richtige Antwort: C
+📝 In der phallischen Phase (3–6 Jahre) entwickeln Kinder laut Freud ihre Geschlechtsidentität.
+
+39. Welche Phase folgt bei Freud auf die phallische Phase?
+A) Genitale Phase
+B) Latenzphase
+C) Anale Phase
+D) Selbstverwirklichung
+
+✅ Richtige Antwort: B
+📝 In der Latenzphase (ca. 6–12 Jahre) treten sexuelle Themen in den Hintergrund, soziale Entwicklung rückt in den Fokus.
+
+40. Was bedeutet, dass die Allgemeine Psychologie nomothetisch arbeitet?
+A) Sie beschreibt Einzelfälle detailliert
+B) Sie ist nicht empirisch
+C) Sie sucht allgemeingültige Gesetzmäßigkeiten
+D) Sie analysiert Einzelfallbiografien
+
+✅ Richtige Antwort: C
+📝 Die Allgemeine Psychologie will Regeln finden, die für viele Menschen oder Situationen gelten.
+
+41. Was unterscheidet wissenschaftliche Psychologie von Alltagspsychologie?
+A) Die wissenschaftliche Psychologie basiert auf Intuition
+B) Die Alltagspsychologie ist präziser und verlässlicher
+C) Die wissenschaftliche Psychologie arbeitet systematisch, empirisch und überprüfbar
+D) Beide arbeiten gleich
+
+✅ Richtige Antwort: C
+📝 Wissenschaftliche Psychologie stellt Hypothesen auf und überprüft sie – Alltagspsychologie basiert auf subjektiver Erfahrung.
+
+42. Was ist ein Merkmal der Alltagspsychologie?
+A) Theoretische Fundierung
+B) Empirische Überprüfbarkeit
+C) Objektivität
+D) Subjektivität und Intuition
+
+✅ Richtige Antwort: D
+📝 Alltagspsychologie ist oft geprägt von persönlichen Erfahrungen und Denkfehlern.
+
+43. Was ist ein zentrales Merkmal des „Spitzenmodells“ der Führung?
+A) Gleichrangige Verantwortung aller Teammitglieder
+B) Zirkuläre Kommunikation
+C) Eine klar definierte Hierarchie mit zentraler Führungskraft
+D) Agile Projektverteilung
+
+✅ Richtige Antwort: C
+📝 Das Spitzenmodell beschreibt klassische Hierarchien mit Entscheidungsfindung an der Spitze.
+
+44. Was symbolisiert das „Kreismodell“ der Führung?
+A) Autoritäre Führung
+B) Entscheidungsmonopole
+C) Dezentralisierung und geteilte Verantwortung
+D) Kontrolle durch mittlere Ebene
+
+✅ Richtige Antwort: C
+📝 Im Kreismodell übernehmen alle Beteiligten Verantwortung – die Führung ist partizipativ.
+
+45. Was ist die erste Stufe im Drei-Speicher-Modell des Gedächtnisses?
+A) Arbeitsgedächtnis
+B) Kurzzeitgedächtnis
+C) Sensorisches Gedächtnis
+D) Langzeitgedächtnis
+
+✅ Richtige Antwort: C
+📝 Das sensorische Gedächtnis speichert Sinneseindrücke für sehr kurze Zeit – wenige Millisekunden.
+
+46. Wie lange speichert das Kurzzeitgedächtnis Informationen typischerweise?
+A) Wenige Sekunden
+B) Einige Minuten
+C) Stunden
+D) Tage
+
+✅ Richtige Antwort: A
+📝 Ohne Wiederholung bleiben Informationen im Kurzzeitgedächtnis nur wenige Sekunden erhalten.
+
+47. Was ist notwendig, damit Informationen ins Langzeitgedächtnis gelangen?
+A) Ausschließlich Schlaf
+B) Reine Wiederholung ohne Zusammenhang
+C) Enkodierung und Verknüpfung mit bestehenden Inhalten
+D) Ablenkung und Pausen
+
+✅ Richtige Antwort: C
+📝 Informationen werden dauerhaft gespeichert, wenn sie sinnvoll verarbeitet und mit Vorwissen verknüpft werden.
+
+48. Welche Gedächtnisstufe hat die größte Speicherkapazität und -dauer?
+A) Sensorisches Gedächtnis
+B) Arbeitsgedächtnis
+C) Kurzzeitgedächtnis
+D) Langzeitgedächtnis
+
+✅ Richtige Antwort: D
+📝 Das Langzeitgedächtnis kann Informationen über Jahre oder ein Leben lang speichern – fast unbegrenzt.
+
+49. Was unterscheidet psychische, soziale und technische Systeme im Luhmannschen Modell?
+A) Sie sind gleich aufgebaut
+B) Sie beeinflussen sich direkt kausal
+C) Sie funktionieren nach eigener Logik
+D) Sie gehören nur zur Technik
+
+✅ Richtige Antwort: C
+📝 Jedes System folgt eigenen Regeln – Veränderungen auf einer Ebene wirken nicht automatisch auf andere.
+
+50. Was ist ein Beispiel für eine psychische Ebene im Luhmann-Modell?
+A) E-Mail-Kommunikation
+B) Denken eines Individuums
+C) Marktpreisentwicklung
+D) Teamregeln
+
+✅ Richtige Antwort: B
+📝 Die psychische Ebene betrifft das individuelle Erleben und Verhalten.
+
+51. Welche Methode nutzen empirische Wissenschaften NICHT?
+A) Systematische Beobachtung
+B) Hypothesenprüfung
+C) Astrologie
+D) Datenauswertung
+
+✅ Richtige Antwort: C
+📝 Astrologie ist keine wissenschaftliche Methode, da sie nicht überprüfbar ist.
+
+52. Was ist ein Ziel der Psychologie?
+A) Spekulation über Verhalten
+B) Unveränderbarkeit menschlichen Erlebens
+C) Beschreibung, Erklärung, Vorhersage, Veränderung
+D) Einzelfallanalyse ohne Vergleich
+
+✅ Richtige Antwort: C
+📝 Die Psychologie will Verhalten systematisch verstehen und beeinflussen.
+
+53. Was beschreibt ein funktionaler Zusammenhang?
+A) Eine überprüfte Ursache
+B) Eine bloße Regelmäßigkeit
+C) Eine Einzelbeobachtung
+D) Eine persönliche Meinung
+
+✅ Richtige Antwort: B
+📝 Funktional heißt: beobachtbares Muster – ohne direkten Kausalitätsnachweis.
+
+54. Was ist Kausalität?
+A) Eine beliebige Verbindung
+B) Eine statistische Häufung
+C) Ein nachweislicher Ursache-Wirkung-Zusammenhang
+D) Eine Interpretation ohne Daten
+
+✅ Richtige Antwort: C
+📝 Kausalität bedeutet, dass eine Variable direkt eine andere beeinflusst – nachweisbar z. B. durch Experimente.
+
+55. Warum ist Priming wichtig?
+A) Es stört die Gedächtnisleistung
+B) Es zeigt unbewusste Beeinflussung
+C) Es ist nur in der Hypnose relevant
+D) Es wirkt ausschließlich bei Kindern
+
+✅ Richtige Antwort: B
+📝 Vorangehende Reize beeinflussen, wie wir Informationen verarbeiten – oft ohne es zu merken.
+
+56. Welche Lernform basiert auf Belohnung und Bestrafung?
+A) Klassisches Konditionieren
+B) Modelllernen
+C) Kognitives Lernen
+D) Operantes Konditionieren
+
+✅ Richtige Antwort: D
+📝 Operantes Lernen stärkt oder schwächt Verhalten durch Konsequenzen.
+
+57. Welche Lernform basiert auf Einsicht und Reflektion?
+A) Klassisches Konditionieren
+B) Kognitives Lernen
+C) Modelllernen
+D) Trieblernen
+
+✅ Richtige Antwort: B
+📝 Kognitives Lernen betont Denkprozesse wie Problemlösen.
+
+58. Was ist ein Beispiel für Psycho-Logik?
+A) 2 + 2 = 4
+B) „Ich lobe ihn nicht, sonst wird er überheblich.“
+C) „Die Erde ist eine Scheibe.“
+D) „Wenn A, dann B“
+
+✅ Richtige Antwort: B
+📝 Psycho-logisch ist subjektiv – oft emotional oder irrational begründet.
+
+59. Welcher Körpersaft ist dem Melancholiker zugeordnet?
+A) Schleim
+B) Galle
+C) Blut
+D) Schwarze Galle
+
+✅ Richtige Antwort: D
+📝 Der Melancholiker gilt als empfindsam und grüblerisch – Symbol: schwarze Galle.
+
+60. Welcher Eysenck-Typ ist extravertiert und labil?
+A) Phlegmatiker
+B) Melancholiker
+C) Sanguiniker
+D) Choleriker
+
+✅ Richtige Antwort: D
+📝 Choleriker sind energisch und impulsiv – extravertiert, aber emotional instabil.
+
+61. Welche Temperamentskombination passt zum Melancholiker im Eysenck-Modell?
+A) Extravertiert und emotional stabil
+B) Introvertiert und emotional labil
+C) Introvertiert und emotional stabil
+D) Extravertiert und emotional labil
+
+✅ Richtige Antwort: B
+📝 Der Melancholiker ist zurückhaltend, nachdenklich und emotional empfindsam.
+
+62. Was beschreibt Attribution?
+A) Ein neuronales Netzwerk
+B) Die Bewertung von Persönlichkeitsmerkmalen
+C) Die Ursachenzuschreibung für Verhalten
+D) Ein zufälliger Reiz
+
+✅ Richtige Antwort: C
+📝 Attribution erklärt, wie Menschen Ursachen für ihr Verhalten und das anderer interpretieren.
+
+63. Welche Dimension gehört nicht zu Weiners Attributionsmodell?
+A) Lokation
+B) Stabilität
+C) Kontrollierbarkeit
+D) Motivation
+
+✅ Richtige Antwort: D
+📝 Motivation ist eine Folge von Attribution, nicht Teil des Schemas selbst.
+
+64. Was ist typisch für erfolgszuversichtliche Personen laut Weiner?
+A) Sie schreiben Erfolg dem Glück zu
+B) Sie machen sich selbst für Misserfolge verantwortlich
+C) Sie sehen Erfolg als Ergebnis stabiler, interner Faktoren
+D) Sie vermeiden Herausforderungen
+
+✅ Richtige Antwort: C
+📝 Erfolgszuversichtliche Personen glauben an ihre Fähigkeiten – und damit an wiederholbaren Erfolg.
+
+65. Was ist typisch für misserfolgsängstliche Personen?
+A) Sie glauben, Erfolg sei Zufall
+B) Sie machen äußere Umstände für Misserfolge verantwortlich
+C) Sie schreiben Misserfolg stabilen, internen Faktoren zu
+D) Sie suchen aktiv neue Herausforderungen
+
+✅ Richtige Antwort: C
+📝 Sie glauben, dass Scheitern an unveränderbaren eigenen Schwächen liegt – was sie entmutigt.
+
+66. Was kennzeichnet den „Social Man“?
+A) Er strebt allein nach Macht
+B) Er ist rational und unabhängig
+C) Er ist durch soziale Beziehungen motivierbar
+D) Er arbeitet bevorzugt isoliert
+
+✅ Richtige Antwort: C
+📝 Der Social Man sucht Anerkennung, Zugehörigkeit und soziale Bindung.
+
+67. Wer gilt als Vater der Human-Relations-Bewegung?
+A) Kurt Lewin
+B) Abraham Maslow
+C) Elton Mayo
+D) Douglas McGregor
+
+✅ Richtige Antwort: C
+📝 Elton Mayo zeigte mit den Hawthorne-Studien die Bedeutung von Anerkennung und sozialer Einbindung.
+
+68. Welches Menschenbild betont Selbstverwirklichung?
+A) Economic Man
+B) Complex Man
+C) Self-actualizing Man
+D) Social Man
+
+✅ Richtige Antwort: C
+📝 Der Mensch wird als motiviert und entwicklungsfähig gesehen – z. B. bei Maslow oder McGregor.
+
+69. Was unterscheidet den Complex Man vom Self-actualizing Man?
+A) Der Complex Man ist ausschließlich extrinsisch motiviert
+B) Er ist motivationsflexibel und lernfähig
+C) Er folgt festen Verhaltensmustern
+D) Er ist sozial weniger kompetent
+
+✅ Richtige Antwort: B
+📝 Der Complex Man wird als anpassungsfähig und situationssensibel beschrieben.
+
+70. Welches Merkmal passt zum Virtual Man?
+A) Ortsgebunden
+B) Technikfern
+C) Kontrollbedürftig
+D) Digital vernetzt und mobil
+
+✅ Richtige Antwort: D
+📝 Der Virtual Man agiert in digitalen Netzwerken, ist flexibel und kooperativ.
+
+71. Welches Menschenbild entspricht am ehesten der Theorie X von McGregor?
+A) Self-actualizing Man
+B) Economic Man
+C) Complex Man
+D) Social Man
+
+✅ Richtige Antwort: B
+📝 Theorie X geht davon aus, dass Menschen nur durch Kontrolle und materielle Anreize arbeiten.
+
+72. Welche Aussage beschreibt Paul Watzlawicks erstes Axiom?
+A) Kommunikation ist immer bewusst
+B) Kommunikation ist willkürlich
+C) Man kann nicht nicht kommunizieren
+D) Kommunikation kann ausgeschaltet werden
+
+✅ Richtige Antwort: C
+📝 Jede Verhaltensäußerung sendet eine Botschaft – auch Schweigen.
+
+73. Was bedeutet das zweite Axiom nach Watzlawick?
+A) Nur der Inhalt ist wichtig
+B) Beziehung beeinflusst, wie der Inhalt verstanden wird
+C) Kommunikation ist einseitig
+D) Emotionen sind irrelevant in Kommunikation
+
+✅ Richtige Antwort: B
+📝 Die Beziehungsebene entscheidet darüber, wie eine Nachricht interpretiert wird.
+
+74. Was meint das dritte Axiom Watzlawicks?
+A) Kommunikation ist einseitig
+B) Kommunikation ist linear
+C) Kommunikation ist zirkulär – Ursache und Wirkung sind nicht eindeutig
+D) Es gibt immer einen Schuldigen
+
+✅ Richtige Antwort: C
+📝 Kommunikation ist ein Wechselspiel – Ursache und Wirkung sind nicht trennbar.
+
+75. Was beschreibt das vierte Axiom Watzlawicks?
+A) Menschen kommunizieren ausschließlich verbal
+B) Nur Schrift zählt als Kommunikation
+C) Kommunikation nutzt digitale (sprachliche) und analoge (nonverbale) Kanäle
+D) Kommunikation funktioniert ohne Gestik
+
+✅ Richtige Antwort: C
+📝 Analoge Signale wie Mimik und Tonfall ergänzen oder überlagern den Inhalt.
+
+76. Was ist laut dem fünften Axiom eine komplementäre Beziehung?
+A) Beide Partner sind gleich stark
+B) Eine Person dominiert, die andere ergänzt
+C) Es herrscht Konkurrenz
+D) Es gibt keine Kommunikation
+
+✅ Richtige Antwort: B
+📝 Komplementär bedeutet: asymmetrische Beziehung – z. B. Arzt und Patient.
+
+77. Was bedeutet die Appellebene im Vier-Ohren-Modell?
+A) Eine Selbstoffenbarung
+B) Ein Beziehungshinweis
+C) Eine reine Sachinformation
+D) Eine Handlungsaufforderung
+
+✅ Richtige Antwort: D
+📝 Auf der Appellebene möchte der Sprecher etwas bewirken – z. B. ein Verhalten auslösen.
+
+78. Welche Ebene gehört nicht zum Vier-Ohren-Modell?
+A) Beziehungsebene
+B) Sachebene
+C) Werteebene
+D) Selbstoffenbarung
+
+✅ Richtige Antwort: C
+📝 Die Werteebene ist kein Bestandteil des Modells von Schulz von Thun.
+
+79. Was ist kein Merkmal intrinsisch motivierender Arbeit laut GuPF-Modell?
+A) Ganzheitlichkeit
+B) Kontrolle durch Vorgesetzte
+C) Unmittelbarkeit
+D) Personenbezug
+
+✅ Richtige Antwort: B
+📝 Kontrolle von außen untergräbt die intrinsische Motivation.
+
+80. Was ist das Ziel teilautonomer Arbeitsgruppen?
+A) Entlastung des Managements
+B) Maximale Fremdkontrolle
+C) Eigenverantwortung und Motivation
+D) Technische Effizienz
+
+✅ Richtige Antwort: C
+📝 Teams planen und kontrollieren sich selbst – das steigert Motivation und Leistung.
+
+81. Welches Motiv gehört laut McClelland nicht zu den Grundmotiven?
+A) Machtmotiv
+B) Selbstverwirklichungsmotiv
+C) Anschlussmotiv
+D) Leistungsmotiv
+
+✅ Richtige Antwort: B
+📝 Selbstverwirklichung ist ein Motiv bei Maslow, nicht bei McClelland.
+
+82. Was ist das Ziel prospektiver Arbeitsgestaltung?
+A) Reparatur defekter Systeme
+B) Kontrolle durch Vorgesetzte
+C) Entwicklung und Gesundheit fördern
+D) Fehlerdokumentation
+
+✅ Richtige Antwort: C
+📝 Prospektiv heißt: vorausschauend, entwicklungsfördernd.
+
+83. Welcher Führungsstil passt zu mittlerer Reife und Bedarf an Motivation?
+A) Anweisen (telling)
+B) Überzeugen (selling)
+C) Partizipieren (participating)
+D) Delegieren (delegating)
+
+✅ Richtige Antwort: B
+📝 Die Führungskraft erklärt, motiviert und unterstützt.
+
+84. Was bedeutet „kairologische Führung“?
+A) Führen nach Uhrzeit
+B) Planung per Kalender
+C) Nutzung des günstigen Moments
+D) Kontrolle durch Zahlen
+
+✅ Richtige Antwort: C
+📝 Kairos bezeichnet den richtigen Augenblick für wirksames Handeln.
+
+🧠 Block 4 (Fragen 85–96)
+85. Was ist das Ideal im 9.9-Führungsmodell?
+A) Geringe Aufgaben-, hohe Mitarbeiterorientierung
+B) Hohe Aufgaben- und hohe Mitarbeiterorientierung
+C) Nur Aufgabenorientierung
+D) Nur Beziehungsorientierung
+
+✅ Richtige Antwort: B
+📝 Der „Team Leader“ im 9.9-Modell vereint beide Dimensionen optimal.
+
+86. Was ist KEINE Basisemotion laut Ekman?
+A) Überraschung
+B) Freude
+C) Hoffnung
+D) Verachtung
+
+✅ Richtige Antwort: C
+📝 Hoffnung ist komplex, nicht biologisch eindeutig – keine Basisemotion.
+
+87. Welche Komponenten bestimmen laut Schachter & Singer eine Emotion?
+A) Trieb & Motivation
+B) Reiz & Reaktion
+C) Physiologische Erregung & kognitive Bewertung
+D) Belohnung & Bestrafung
+
+✅ Richtige Antwort: C
+📝 Emotion entsteht durch körperliche Erregung und deren Interpretation.
+
+88. Was ist ein Beispiel für kognitive Bewertung in der Zwei-Faktoren-Theorie?
+A) Zittern bei Kälte
+B) Interpretation von Herzklopfen als „Angst“
+C) Muskelkrampf
+D) Hunger
+
+✅ Richtige Antwort: B
+📝 Die Bewertung entscheidet, welche Emotion empfunden wird.
+
+89. Was ist ein Schutzfaktor gegen Burnout laut GuPF?
+A) Zeitdruck
+B) Kontrolle
+C) Ganzheitliche Aufgaben
+D) Fremdbestimmung
+
+✅ Richtige Antwort: C
+📝 Ganzheitlichkeit gibt Sinn – das schützt vor Erschöpfung.
+
+90. Welche Instanz folgt laut Freud dem Lustprinzip?
+A) Ich
+B) Über-Ich
+C) Es
+D) Selbst
+
+✅ Richtige Antwort: C
+📝 Das Es strebt unmittelbare Bedürfnisbefriedigung an – ohne Rücksicht.
+
+91. Welche Aufgabe hat das „Ich“ im Freud’schen Modell?
+A) Triebregulierung
+B) Moralische Bewertung
+C) Triebsteuerung in Einklang mit Realität
+D) Belohnungssystem
+
+✅ Richtige Antwort: C
+📝 Das Ich vermittelt zwischen den Instanzen und der Realität.
+
+92. Wann tritt laut Freud der Ödipuskomplex auf?
+A) Orale Phase
+B) Anale Phase
+C) Phallische Phase
+D) Latenzphase
+
+✅ Richtige Antwort: C
+📝 In der phallischen Phase entwickeln Kinder Geschlechtsidentität und Beziehungsdynamik zu den Eltern.
+
+93. Was passiert in der Latenzphase laut Freud?
+A) Ausbildung sexueller Wünsche
+B) Sozialisierung und schulisches Lernen
+C) Identitätsentwicklung
+D) Triebdurchbruch
+
+✅ Richtige Antwort: B
+📝 Sexuelle Themen treten zurück – Lernen und soziale Regeln stehen im Vordergrund.
+
+94. Was bedeutet „nomothetisch“ in der Psychologie?
+A) Einzelfallorientiert
+B) Subjektzentriert
+C) Allgemeingültige Gesetzmäßigkeiten anstrebend
+D) Empiriefrei
+
+✅ Richtige Antwort: C
+📝 Die Allgemeine Psychologie sucht Regeln, die für viele gelten.
+
+95. Was kennzeichnet Alltagspsychologie?
+A) Systematik
+B) Hypothesenprüfung
+C) Intuition und Subjektivität
+D) Verifizierbarkeit
+
+✅ Richtige Antwort: C
+📝 Alltagspsychologie basiert auf Erfahrung und Intuition – ohne wissenschaftliche Prüfung.
+
+96. Was ist das zentrale Merkmal des Spitzenmodells der Führung?
+A) Gleichverteilung von Verantwortung
+B) Dezentralisierung
+C) Hierarchische Führung mit Entscheidung an der Spitze
+D) Kreisstruktur
+
+✅ Richtige Antwort: C
+📝 Entscheidungen werden von einer zentralen Person oder Ebene getroffen.
+
+97. Was steht im Fokus des Kreismodells der Führung?
+A) Kontrolle durch eine Leitung
+B) Partizipation und dezentrale Verantwortung
+C) Anweisung und Überwachung
+D) Fixe Rollenverteilung
+
+✅ Richtige Antwort: B
+📝 Verantwortung wird auf alle verteilt – ideal für agile Strukturen.
+
+98. Was speichert das sensorische Gedächtnis?
+A) Logische Schlüsse
+B) Langfristige Informationen
+C) Kurzfristige Sinneseindrücke
+D) Motorische Abläufe
+
+✅ Richtige Antwort: C
+📝 Es hält Reize nur Millisekunden bis Sekunden – z. B. ein Geräusch.
+
+99. Wie viele Informationseinheiten speichert das Kurzzeitgedächtnis typischerweise?
+A) 3±1
+B) 5±2
+C) 7±2
+D) 9±3
+
+✅ Richtige Antwort: C
+📝 Das klassische Maß ist 7±2 – je nach Person leicht variabel.
+
+100. Was ist entscheidend, damit Informationen ins Langzeitgedächtnis gelangen?
+A) Reizintensität
+B) Träumen
+C) Enkodierung und Verknüpfung mit Vorwissen
+D) Passivität
+
+✅ Richtige Antwort: C
+📝 Bedeutungsvolles Lernen erleichtert Speicherung ins Langzeitgedächtnis.
+
+101. Was kennzeichnet das Langzeitgedächtnis?
+A) Begrenzte Kapazität
+B) Kurze Dauer
+C) Unbegrenzte Speicherkapazität und lange Haltbarkeit
+D) Zugriff nur im Schlaf
+
+✅ Richtige Antwort: C
+📝 Langzeitgedächtnis kann theoretisch lebenslang speichern.
+
+102. Was unterscheidet wissenschaftliche Psychologie von Alltagspsychologie?
+A) Sie ist auf Anekdoten gestützt
+B) Sie verwendet systematische Methoden
+C) Sie basiert auf Intuition
+D) Sie ist nur theoretisch
+
+✅ Richtige Antwort: B
+📝 Wissenschaftliche Psychologie prüft Hypothesen empirisch.
+
+103. Was ist ein typischer Denkfehler der Alltagspsychologie?
+A) Statistische Kontrolle
+B) Hypothesenformulierung
+C) Bestätigungsfehler
+D) Replikation
+
+✅ Richtige Antwort: C
+📝 Menschen neigen dazu, nur bestätigende Beispiele wahrzunehmen.
+
+104. Wie wird die orale Phase bei Freud charakterisiert?
+A) Kontrolle über Ausscheidung
+B) Lust durch Nahrungsaufnahme
+C) Sexualtrieb
+D) Rückzug ins Selbst
+
+✅ Richtige Antwort: B
+📝 Saugen und Nahrungsaufnahme stehen im Zentrum – Entwicklung von Urvertrauen.
+
+105. Was geschieht in der analen Phase nach Freud?
+A) Triebverdrängung
+B) Entdeckung der Geschlechtsidentität
+C) Entwicklung von Autonomie durch Kontrolle über Ausscheidung
+D) Rebellion gegen Eltern
+
+✅ Richtige Antwort: C
+📝 Kontrolle und Selbstständigkeit entwickeln sich durch Sauberkeitserziehung.
+
+106. Wann beginnt laut Freud die genitale Phase?
+A) Geburt
+B) Vorschule
+C) Mit der Pubertät
+D) Im Alter
+
+✅ Richtige Antwort: C
+📝 Die Sexualität richtet sich auf andere – Partnerschaft und Reife.
+
+107. Welche Aussage beschreibt das „Selbstoffenbarungsohr“ im Vier-Ohren-Modell?
+A) Was will der andere von mir?
+B) Was ist der Sachinhalt?
+C) Was sagt die Person über sich selbst?
+D) Wie ist unsere Beziehung?
+
+✅ Richtige Antwort: C
+📝 Jede Aussage enthält Informationen über die sprechende Person.
+
+108. Was beschreibt „Unmittelbarkeit“ im GuPF-Modell?
+A) Spontane Aufgabenverteilung
+B) Direkte und klare Rückmeldung
+C) Kontrolle durch Software
+D) Sofortige Kündigung
+
+✅ Richtige Antwort: B
+📝 Feedback sollte schnell erfolgen, um Motivation und Lernen zu fördern.
