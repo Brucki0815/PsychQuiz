@@ -163,7 +163,6 @@ A) Er lebt völlig analog und zurückgezogen
 B) Er reagiert nur auf Kontrolle
 C) Er ist digital vernetzt, mobil und kooperativ
 D) Er folgt streng hierarchischen Strukturen
-
 ✅ Richtige Antwort: C
 📝 Der Virtual Man agiert in virtuellen und realen Netzwerken – vernetzt, flexibel, eigenverantwortlich.
 
@@ -172,7 +171,6 @@ A) Kommunikation erfolgt nur mit Sprache
 B) Kommunikation kann unterbrochen werden
 C) Man kann nicht nicht kommunizieren
 D) Nur bewusste Kommunikation zählt
-
 ✅ Richtige Antwort: C
 📝 Jedes Verhalten hat Mitteilungscharakter – selbst Schweigen oder Abwenden sendet eine Botschaft.
 
@@ -181,7 +179,6 @@ A) Kommunikation ist einseitig
 B) Es gibt nur Inhalt, keine Beziehung
 C) Beziehung bestimmt, wie der Inhalt zu verstehen ist
 D) Nonverbale Kommunikation ist unwichtig
-
 ✅ Richtige Antwort: C
 📝 Die Beziehungsebene beeinflusst die Interpretation des Inhalts.
 
@@ -190,7 +187,6 @@ A) Der Sprecher sagt etwas über sich
 B) Der Sprecher will etwas erreichen oder bewirken
 C) Es geht nur um neutrale Fakten
 D) Es geht um Beziehungskonflikte
-
 ✅ Richtige Antwort: B
 📝 Auf der Appellebene steckt in jeder Aussage ein Wunsch oder eine Handlungsaufforderung.
 
@@ -199,7 +195,6 @@ A) Kontrolle durch Vorgesetzte
 B) Ganzheitlichkeit, Unmittelbarkeit, Personenbezug, Förderlichkeit
 C) Leistungsdruck und externe Belohnungen
 D) Routinetätigkeiten ohne Feedback
-
 ✅ Richtige Antwort: B
 📝 Diese vier Merkmale gestalten Arbeit sinnstiftend, entwicklungsfördernd und motivierend.
 
@@ -208,7 +203,6 @@ A) Sie führen nur monotone Einzelaufgaben aus
 B) Sie werden streng von außen gesteuert
 C) Sie übernehmen selbst Verantwortung für Planung und Kontrolle
 D) Sie sind ausschließlich virtuell organisiert
-
 ✅ Richtige Antwort: C
 📝 Teilautonome Teams arbeiten eigenverantwortlich und gestalten ihre Prozesse selbst.
 
@@ -217,7 +211,6 @@ A) Leistungsmotiv
 B) Anschlussmotiv
 C) Selbstverwirklichungsmotiv
 D) Machtmotiv
-
 ✅ Richtige Antwort: C
 📝 McClelland beschreibt drei soziale Motive: Leistung, Macht, Anschluss – Selbstverwirklichung gehört zu Maslow.
 
@@ -226,7 +219,6 @@ A) Probleme werden im Nachhinein korrigiert
 B) Belastungen werden kurzfristig gemessen
 C) Es geht um die Förderung von Entwicklung und Gesundheit
 D) Es werden nur Symptome behandelt
-
 ✅ Richtige Antwort: C
 📝 Prospektiv bedeutet: vorausschauend und entwicklungsförderlich gestalten, nicht nur Mängel beheben.
 
@@ -235,7 +227,6 @@ A) Mitarbeiter bekommen keine Erklärung
 B) Die Führungskraft gibt nur Befehle
 C) Die Führungskraft begründet und motiviert Aufgaben
 D) Führung wird komplett abgegeben
-
 ✅ Richtige Antwort: C
 📝 Bei mittlerer Reife wird erklärt, motiviert und überzeugt – mehr Beteiligung als beim Anweisen.
 
@@ -244,7 +235,6 @@ A) Führung nach der Uhrzeit
 B) Kontrolle durch Zeitpläne
 C) Nutzung des richtigen Moments für wirksames Handeln
 D) Lenkung durch Hierarchie
-
 ✅ Richtige Antwort: C
 📝 Kairologische Führung nutzt die Qualität des Moments – z. B. ein Lob im passenden Augenblick.
 
@@ -253,7 +243,6 @@ A) Es zeigt die Balance zwischen Lohn und Kontrolle
 B) Es verknüpft emotionale Intelligenz mit Fachwissen
 C) Es kombiniert hohe Mitarbeiter- und hohe Aufgabenorientierung
 D) Es beschreibt ein autoritäres Führungsprinzip
-
 ✅ Richtige Antwort: C
 📝 Das ideale Führungsverhalten liegt bei maximaler Aufgaben- und Mitarbeiterorientierung (9.9).
 
@@ -262,7 +251,6 @@ A) Stolz
 B) Hoffnung
 C) Verachtung
 D) Neid
-
 ✅ Richtige Antwort: C
 📝 Verachtung ist eine der sieben Basisemotionen, die kulturübergreifend auftreten und mimisch erkennbar sind.
 
@@ -271,7 +259,6 @@ A) Zwei-Faktoren-Theorie der Emotion
 B) Triebtheorie der Emotion
 C) James-Lange-Theorie
 D) Bedürfnispyramide
-
 ✅ Richtige Antwort: A
 📝 Emotion entsteht laut Schachter & Singer aus physiologischer Erregung und kognitiver Bewertung.
 
@@ -280,7 +267,6 @@ A) Muskelanspannung
 B) Reizaufnahme
 C) Bewertung der Situation
 D) Biochemische Prozesse
-
 ✅ Richtige Antwort: C
 📝 Die Interpretation der Erregung entscheidet darüber, ob man z. B. Angst oder Freude empfindet.
 
@@ -289,7 +275,6 @@ A) Routinetätigkeit
 B) Ganzheitlichkeit
 C) Kontrolle durch andere
 D) Zeitdruck
-
 ✅ Richtige Antwort: B
 📝 Ganzheitliche Aufgaben machen den Sinn der Tätigkeit erfahrbar und schützen vor Entfremdung.
 
@@ -298,7 +283,6 @@ A) Ich
 B) Über-Ich
 C) Es
 D) Selbst
-
 ✅ Richtige Antwort: C
 📝 Das Es ist der unbewusste Teil der Psyche, der nach unmittelbarer Bedürfnisbefriedigung strebt.
 
@@ -307,7 +291,6 @@ A) Moralischer Richter
 B) Quelle der Triebe
 C) Vermittler zwischen Es, Über-Ich und Realität
 D) Unbewusstes Zentrum
-
 ✅ Richtige Antwort: C
 📝 Das Ich balanciert zwischen Trieben, Normen und realen Anforderungen – es vermittelt und plant.
 
@@ -316,7 +299,6 @@ A) Orale Phase
 B) Anale Phase
 C) Phallische Phase
 D) Latenzphase
-
 ✅ Richtige Antwort: C
 📝 In der phallischen Phase (3–6 Jahre) entwickeln Kinder laut Freud ihre Geschlechtsidentität.
 
@@ -325,7 +307,6 @@ A) Genitale Phase
 B) Latenzphase
 C) Anale Phase
 D) Selbstverwirklichung
-
 ✅ Richtige Antwort: B
 📝 In der Latenzphase (ca. 6–12 Jahre) treten sexuelle Themen in den Hintergrund, soziale Entwicklung rückt in den Fokus.
 
@@ -334,7 +315,6 @@ A) Sie beschreibt Einzelfälle detailliert
 B) Sie ist nicht empirisch
 C) Sie sucht allgemeingültige Gesetzmäßigkeiten
 D) Sie analysiert Einzelfallbiografien
-
 ✅ Richtige Antwort: C
 📝 Die Allgemeine Psychologie will Regeln finden, die für viele Menschen oder Situationen gelten.
 
@@ -343,7 +323,6 @@ A) Die wissenschaftliche Psychologie basiert auf Intuition
 B) Die Alltagspsychologie ist präziser und verlässlicher
 C) Die wissenschaftliche Psychologie arbeitet systematisch, empirisch und überprüfbar
 D) Beide arbeiten gleich
-
 ✅ Richtige Antwort: C
 📝 Wissenschaftliche Psychologie stellt Hypothesen auf und überprüft sie – Alltagspsychologie basiert auf subjektiver Erfahrung.
 
@@ -352,7 +331,6 @@ A) Theoretische Fundierung
 B) Empirische Überprüfbarkeit
 C) Objektivität
 D) Subjektivität und Intuition
-
 ✅ Richtige Antwort: D
 📝 Alltagspsychologie ist oft geprägt von persönlichen Erfahrungen und Denkfehlern.
 
@@ -361,7 +339,6 @@ A) Gleichrangige Verantwortung aller Teammitglieder
 B) Zirkuläre Kommunikation
 C) Eine klar definierte Hierarchie mit zentraler Führungskraft
 D) Agile Projektverteilung
-
 ✅ Richtige Antwort: C
 📝 Das Spitzenmodell beschreibt klassische Hierarchien mit Entscheidungsfindung an der Spitze.
 
@@ -370,7 +347,6 @@ A) Autoritäre Führung
 B) Entscheidungsmonopole
 C) Dezentralisierung und geteilte Verantwortung
 D) Kontrolle durch mittlere Ebene
-
 ✅ Richtige Antwort: C
 📝 Im Kreismodell übernehmen alle Beteiligten Verantwortung – die Führung ist partizipativ.
 
@@ -379,7 +355,6 @@ A) Arbeitsgedächtnis
 B) Kurzzeitgedächtnis
 C) Sensorisches Gedächtnis
 D) Langzeitgedächtnis
-
 ✅ Richtige Antwort: C
 📝 Das sensorische Gedächtnis speichert Sinneseindrücke für sehr kurze Zeit – wenige Millisekunden.
 
@@ -388,7 +363,6 @@ A) Wenige Sekunden
 B) Einige Minuten
 C) Stunden
 D) Tage
-
 ✅ Richtige Antwort: A
 📝 Ohne Wiederholung bleiben Informationen im Kurzzeitgedächtnis nur wenige Sekunden erhalten.
 
@@ -397,7 +371,6 @@ A) Ausschließlich Schlaf
 B) Reine Wiederholung ohne Zusammenhang
 C) Enkodierung und Verknüpfung mit bestehenden Inhalten
 D) Ablenkung und Pausen
-
 ✅ Richtige Antwort: C
 📝 Informationen werden dauerhaft gespeichert, wenn sie sinnvoll verarbeitet und mit Vorwissen verknüpft werden.
 
@@ -406,7 +379,6 @@ A) Sensorisches Gedächtnis
 B) Arbeitsgedächtnis
 C) Kurzzeitgedächtnis
 D) Langzeitgedächtnis
-
 ✅ Richtige Antwort: D
 📝 Das Langzeitgedächtnis kann Informationen über Jahre oder ein Leben lang speichern – fast unbegrenzt.
 
@@ -415,7 +387,6 @@ A) Sie sind gleich aufgebaut
 B) Sie beeinflussen sich direkt kausal
 C) Sie funktionieren nach eigener Logik
 D) Sie gehören nur zur Technik
-
 ✅ Richtige Antwort: C
 📝 Jedes System folgt eigenen Regeln – Veränderungen auf einer Ebene wirken nicht automatisch auf andere.
 
@@ -424,7 +395,6 @@ A) E-Mail-Kommunikation
 B) Denken eines Individuums
 C) Marktpreisentwicklung
 D) Teamregeln
-
 ✅ Richtige Antwort: B
 📝 Die psychische Ebene betrifft das individuelle Erleben und Verhalten.
 
@@ -433,7 +403,6 @@ A) Systematische Beobachtung
 B) Hypothesenprüfung
 C) Astrologie
 D) Datenauswertung
-
 ✅ Richtige Antwort: C
 📝 Astrologie ist keine wissenschaftliche Methode, da sie nicht überprüfbar ist.
 
@@ -442,7 +411,6 @@ A) Spekulation über Verhalten
 B) Unveränderbarkeit menschlichen Erlebens
 C) Beschreibung, Erklärung, Vorhersage, Veränderung
 D) Einzelfallanalyse ohne Vergleich
-
 ✅ Richtige Antwort: C
 📝 Die Psychologie will Verhalten systematisch verstehen und beeinflussen.
 
@@ -451,7 +419,6 @@ A) Eine überprüfte Ursache
 B) Eine bloße Regelmäßigkeit
 C) Eine Einzelbeobachtung
 D) Eine persönliche Meinung
-
 ✅ Richtige Antwort: B
 📝 Funktional heißt: beobachtbares Muster – ohne direkten Kausalitätsnachweis.
 
@@ -460,7 +427,6 @@ A) Eine beliebige Verbindung
 B) Eine statistische Häufung
 C) Ein nachweislicher Ursache-Wirkung-Zusammenhang
 D) Eine Interpretation ohne Daten
-
 ✅ Richtige Antwort: C
 📝 Kausalität bedeutet, dass eine Variable direkt eine andere beeinflusst – nachweisbar z. B. durch Experimente.
 
@@ -469,7 +435,6 @@ A) Es stört die Gedächtnisleistung
 B) Es zeigt unbewusste Beeinflussung
 C) Es ist nur in der Hypnose relevant
 D) Es wirkt ausschließlich bei Kindern
-
 ✅ Richtige Antwort: B
 📝 Vorangehende Reize beeinflussen, wie wir Informationen verarbeiten – oft ohne es zu merken.
 
@@ -478,7 +443,6 @@ A) Klassisches Konditionieren
 B) Modelllernen
 C) Kognitives Lernen
 D) Operantes Konditionieren
-
 ✅ Richtige Antwort: D
 📝 Operantes Lernen stärkt oder schwächt Verhalten durch Konsequenzen.
 
@@ -487,7 +451,6 @@ A) Klassisches Konditionieren
 B) Kognitives Lernen
 C) Modelllernen
 D) Trieblernen
-
 ✅ Richtige Antwort: B
 📝 Kognitives Lernen betont Denkprozesse wie Problemlösen.
 
@@ -496,7 +459,6 @@ A) 2 + 2 = 4
 B) „Ich lobe ihn nicht, sonst wird er überheblich.“
 C) „Die Erde ist eine Scheibe.“
 D) „Wenn A, dann B“
-
 ✅ Richtige Antwort: B
 📝 Psycho-logisch ist subjektiv – oft emotional oder irrational begründet.
 
@@ -505,7 +467,6 @@ A) Schleim
 B) Galle
 C) Blut
 D) Schwarze Galle
-
 ✅ Richtige Antwort: D
 📝 Der Melancholiker gilt als empfindsam und grüblerisch – Symbol: schwarze Galle.
 
@@ -514,7 +475,6 @@ A) Phlegmatiker
 B) Melancholiker
 C) Sanguiniker
 D) Choleriker
-
 ✅ Richtige Antwort: D
 📝 Choleriker sind energisch und impulsiv – extravertiert, aber emotional instabil.
 
@@ -523,7 +483,6 @@ A) Extravertiert und emotional stabil
 B) Introvertiert und emotional labil
 C) Introvertiert und emotional stabil
 D) Extravertiert und emotional labil
-
 ✅ Richtige Antwort: B
 📝 Der Melancholiker ist zurückhaltend, nachdenklich und emotional empfindsam.
 
@@ -532,7 +491,6 @@ A) Ein neuronales Netzwerk
 B) Die Bewertung von Persönlichkeitsmerkmalen
 C) Die Ursachenzuschreibung für Verhalten
 D) Ein zufälliger Reiz
-
 ✅ Richtige Antwort: C
 📝 Attribution erklärt, wie Menschen Ursachen für ihr Verhalten und das anderer interpretieren.
 
@@ -541,7 +499,6 @@ A) Lokation
 B) Stabilität
 C) Kontrollierbarkeit
 D) Motivation
-
 ✅ Richtige Antwort: D
 📝 Motivation ist eine Folge von Attribution, nicht Teil des Schemas selbst.
 
@@ -550,7 +507,6 @@ A) Sie schreiben Erfolg dem Glück zu
 B) Sie machen sich selbst für Misserfolge verantwortlich
 C) Sie sehen Erfolg als Ergebnis stabiler, interner Faktoren
 D) Sie vermeiden Herausforderungen
-
 ✅ Richtige Antwort: C
 📝 Erfolgszuversichtliche Personen glauben an ihre Fähigkeiten – und damit an wiederholbaren Erfolg.
 
@@ -559,7 +515,6 @@ A) Sie glauben, Erfolg sei Zufall
 B) Sie machen äußere Umstände für Misserfolge verantwortlich
 C) Sie schreiben Misserfolg stabilen, internen Faktoren zu
 D) Sie suchen aktiv neue Herausforderungen
-
 ✅ Richtige Antwort: C
 📝 Sie glauben, dass Scheitern an unveränderbaren eigenen Schwächen liegt – was sie entmutigt.
 
@@ -568,7 +523,6 @@ A) Er strebt allein nach Macht
 B) Er ist rational und unabhängig
 C) Er ist durch soziale Beziehungen motivierbar
 D) Er arbeitet bevorzugt isoliert
-
 ✅ Richtige Antwort: C
 📝 Der Social Man sucht Anerkennung, Zugehörigkeit und soziale Bindung.
 
@@ -577,7 +531,6 @@ A) Kurt Lewin
 B) Abraham Maslow
 C) Elton Mayo
 D) Douglas McGregor
-
 ✅ Richtige Antwort: C
 📝 Elton Mayo zeigte mit den Hawthorne-Studien die Bedeutung von Anerkennung und sozialer Einbindung.
 
@@ -586,7 +539,6 @@ A) Economic Man
 B) Complex Man
 C) Self-actualizing Man
 D) Social Man
-
 ✅ Richtige Antwort: C
 📝 Der Mensch wird als motiviert und entwicklungsfähig gesehen – z. B. bei Maslow oder McGregor.
 
@@ -595,7 +547,6 @@ A) Der Complex Man ist ausschließlich extrinsisch motiviert
 B) Er ist motivationsflexibel und lernfähig
 C) Er folgt festen Verhaltensmustern
 D) Er ist sozial weniger kompetent
-
 ✅ Richtige Antwort: B
 📝 Der Complex Man wird als anpassungsfähig und situationssensibel beschrieben.
 
@@ -604,7 +555,6 @@ A) Ortsgebunden
 B) Technikfern
 C) Kontrollbedürftig
 D) Digital vernetzt und mobil
-
 ✅ Richtige Antwort: D
 📝 Der Virtual Man agiert in digitalen Netzwerken, ist flexibel und kooperativ.
 
@@ -613,7 +563,6 @@ A) Self-actualizing Man
 B) Economic Man
 C) Complex Man
 D) Social Man
-
 ✅ Richtige Antwort: B
 📝 Theorie X geht davon aus, dass Menschen nur durch Kontrolle und materielle Anreize arbeiten.
 
@@ -622,7 +571,6 @@ A) Kommunikation ist immer bewusst
 B) Kommunikation ist willkürlich
 C) Man kann nicht nicht kommunizieren
 D) Kommunikation kann ausgeschaltet werden
-
 ✅ Richtige Antwort: C
 📝 Jede Verhaltensäußerung sendet eine Botschaft – auch Schweigen.
 
@@ -631,7 +579,6 @@ A) Nur der Inhalt ist wichtig
 B) Beziehung beeinflusst, wie der Inhalt verstanden wird
 C) Kommunikation ist einseitig
 D) Emotionen sind irrelevant in Kommunikation
-
 ✅ Richtige Antwort: B
 📝 Die Beziehungsebene entscheidet darüber, wie eine Nachricht interpretiert wird.
 
@@ -640,7 +587,6 @@ A) Kommunikation ist einseitig
 B) Kommunikation ist linear
 C) Kommunikation ist zirkulär – Ursache und Wirkung sind nicht eindeutig
 D) Es gibt immer einen Schuldigen
-
 ✅ Richtige Antwort: C
 📝 Kommunikation ist ein Wechselspiel – Ursache und Wirkung sind nicht trennbar.
 
@@ -649,7 +595,6 @@ A) Menschen kommunizieren ausschließlich verbal
 B) Nur Schrift zählt als Kommunikation
 C) Kommunikation nutzt digitale (sprachliche) und analoge (nonverbale) Kanäle
 D) Kommunikation funktioniert ohne Gestik
-
 ✅ Richtige Antwort: C
 📝 Analoge Signale wie Mimik und Tonfall ergänzen oder überlagern den Inhalt.
 
@@ -658,7 +603,6 @@ A) Beide Partner sind gleich stark
 B) Eine Person dominiert, die andere ergänzt
 C) Es herrscht Konkurrenz
 D) Es gibt keine Kommunikation
-
 ✅ Richtige Antwort: B
 📝 Komplementär bedeutet: asymmetrische Beziehung – z. B. Arzt und Patient.
 
@@ -667,7 +611,6 @@ A) Eine Selbstoffenbarung
 B) Ein Beziehungshinweis
 C) Eine reine Sachinformation
 D) Eine Handlungsaufforderung
-
 ✅ Richtige Antwort: D
 📝 Auf der Appellebene möchte der Sprecher etwas bewirken – z. B. ein Verhalten auslösen.
 
@@ -676,7 +619,6 @@ A) Beziehungsebene
 B) Sachebene
 C) Werteebene
 D) Selbstoffenbarung
-
 ✅ Richtige Antwort: C
 📝 Die Werteebene ist kein Bestandteil des Modells von Schulz von Thun.
 
@@ -685,7 +627,6 @@ A) Ganzheitlichkeit
 B) Kontrolle durch Vorgesetzte
 C) Unmittelbarkeit
 D) Personenbezug
-
 ✅ Richtige Antwort: B
 📝 Kontrolle von außen untergräbt die intrinsische Motivation.
 
@@ -694,7 +635,6 @@ A) Entlastung des Managements
 B) Maximale Fremdkontrolle
 C) Eigenverantwortung und Motivation
 D) Technische Effizienz
-
 ✅ Richtige Antwort: C
 📝 Teams planen und kontrollieren sich selbst – das steigert Motivation und Leistung.
 
@@ -703,7 +643,6 @@ A) Machtmotiv
 B) Selbstverwirklichungsmotiv
 C) Anschlussmotiv
 D) Leistungsmotiv
-
 ✅ Richtige Antwort: B
 📝 Selbstverwirklichung ist ein Motiv bei Maslow, nicht bei McClelland.
 
@@ -712,7 +651,6 @@ A) Reparatur defekter Systeme
 B) Kontrolle durch Vorgesetzte
 C) Entwicklung und Gesundheit fördern
 D) Fehlerdokumentation
-
 ✅ Richtige Antwort: C
 📝 Prospektiv heißt: vorausschauend, entwicklungsfördernd.
 
@@ -721,7 +659,6 @@ A) Anweisen (telling)
 B) Überzeugen (selling)
 C) Partizipieren (participating)
 D) Delegieren (delegating)
-
 ✅ Richtige Antwort: B
 📝 Die Führungskraft erklärt, motiviert und unterstützt.
 
@@ -730,7 +667,6 @@ A) Führen nach Uhrzeit
 B) Planung per Kalender
 C) Nutzung des günstigen Moments
 D) Kontrolle durch Zahlen
-
 ✅ Richtige Antwort: C
 📝 Kairos bezeichnet den richtigen Augenblick für wirksames Handeln.
 
@@ -740,7 +676,6 @@ A) Geringe Aufgaben-, hohe Mitarbeiterorientierung
 B) Hohe Aufgaben- und hohe Mitarbeiterorientierung
 C) Nur Aufgabenorientierung
 D) Nur Beziehungsorientierung
-
 ✅ Richtige Antwort: B
 📝 Der „Team Leader“ im 9.9-Modell vereint beide Dimensionen optimal.
 
@@ -749,7 +684,6 @@ A) Überraschung
 B) Freude
 C) Hoffnung
 D) Verachtung
-
 ✅ Richtige Antwort: C
 📝 Hoffnung ist komplex, nicht biologisch eindeutig – keine Basisemotion.
 
@@ -758,7 +692,6 @@ A) Trieb & Motivation
 B) Reiz & Reaktion
 C) Physiologische Erregung & kognitive Bewertung
 D) Belohnung & Bestrafung
-
 ✅ Richtige Antwort: C
 📝 Emotion entsteht durch körperliche Erregung und deren Interpretation.
 
@@ -767,7 +700,6 @@ A) Zittern bei Kälte
 B) Interpretation von Herzklopfen als „Angst“
 C) Muskelkrampf
 D) Hunger
-
 ✅ Richtige Antwort: B
 📝 Die Bewertung entscheidet, welche Emotion empfunden wird.
 
@@ -776,7 +708,6 @@ A) Zeitdruck
 B) Kontrolle
 C) Ganzheitliche Aufgaben
 D) Fremdbestimmung
-
 ✅ Richtige Antwort: C
 📝 Ganzheitlichkeit gibt Sinn – das schützt vor Erschöpfung.
 
@@ -785,7 +716,6 @@ A) Ich
 B) Über-Ich
 C) Es
 D) Selbst
-
 ✅ Richtige Antwort: C
 📝 Das Es strebt unmittelbare Bedürfnisbefriedigung an – ohne Rücksicht.
 
@@ -794,7 +724,6 @@ A) Triebregulierung
 B) Moralische Bewertung
 C) Triebsteuerung in Einklang mit Realität
 D) Belohnungssystem
-
 ✅ Richtige Antwort: C
 📝 Das Ich vermittelt zwischen den Instanzen und der Realität.
 
@@ -803,7 +732,6 @@ A) Orale Phase
 B) Anale Phase
 C) Phallische Phase
 D) Latenzphase
-
 ✅ Richtige Antwort: C
 📝 In der phallischen Phase entwickeln Kinder Geschlechtsidentität und Beziehungsdynamik zu den Eltern.
 
@@ -812,7 +740,6 @@ A) Ausbildung sexueller Wünsche
 B) Sozialisierung und schulisches Lernen
 C) Identitätsentwicklung
 D) Triebdurchbruch
-
 ✅ Richtige Antwort: B
 📝 Sexuelle Themen treten zurück – Lernen und soziale Regeln stehen im Vordergrund.
 
@@ -821,7 +748,6 @@ A) Einzelfallorientiert
 B) Subjektzentriert
 C) Allgemeingültige Gesetzmäßigkeiten anstrebend
 D) Empiriefrei
-
 ✅ Richtige Antwort: C
 📝 Die Allgemeine Psychologie sucht Regeln, die für viele gelten.
 
@@ -830,7 +756,6 @@ A) Systematik
 B) Hypothesenprüfung
 C) Intuition und Subjektivität
 D) Verifizierbarkeit
-
 ✅ Richtige Antwort: C
 📝 Alltagspsychologie basiert auf Erfahrung und Intuition – ohne wissenschaftliche Prüfung.
 
@@ -839,7 +764,6 @@ A) Gleichverteilung von Verantwortung
 B) Dezentralisierung
 C) Hierarchische Führung mit Entscheidung an der Spitze
 D) Kreisstruktur
-
 ✅ Richtige Antwort: C
 📝 Entscheidungen werden von einer zentralen Person oder Ebene getroffen.
 
@@ -848,7 +772,6 @@ A) Kontrolle durch eine Leitung
 B) Partizipation und dezentrale Verantwortung
 C) Anweisung und Überwachung
 D) Fixe Rollenverteilung
-
 ✅ Richtige Antwort: B
 📝 Verantwortung wird auf alle verteilt – ideal für agile Strukturen.
 
@@ -857,7 +780,6 @@ A) Logische Schlüsse
 B) Langfristige Informationen
 C) Kurzfristige Sinneseindrücke
 D) Motorische Abläufe
-
 ✅ Richtige Antwort: C
 📝 Es hält Reize nur Millisekunden bis Sekunden – z. B. ein Geräusch.
 
@@ -866,7 +788,6 @@ A) 3±1
 B) 5±2
 C) 7±2
 D) 9±3
-
 ✅ Richtige Antwort: C
 📝 Das klassische Maß ist 7±2 – je nach Person leicht variabel.
 
@@ -875,7 +796,6 @@ A) Reizintensität
 B) Träumen
 C) Enkodierung und Verknüpfung mit Vorwissen
 D) Passivität
-
 ✅ Richtige Antwort: C
 📝 Bedeutungsvolles Lernen erleichtert Speicherung ins Langzeitgedächtnis.
 
@@ -884,7 +804,6 @@ A) Begrenzte Kapazität
 B) Kurze Dauer
 C) Unbegrenzte Speicherkapazität und lange Haltbarkeit
 D) Zugriff nur im Schlaf
-
 ✅ Richtige Antwort: C
 📝 Langzeitgedächtnis kann theoretisch lebenslang speichern.
 
@@ -893,7 +812,6 @@ A) Sie ist auf Anekdoten gestützt
 B) Sie verwendet systematische Methoden
 C) Sie basiert auf Intuition
 D) Sie ist nur theoretisch
-
 ✅ Richtige Antwort: B
 📝 Wissenschaftliche Psychologie prüft Hypothesen empirisch.
 
@@ -902,7 +820,6 @@ A) Statistische Kontrolle
 B) Hypothesenformulierung
 C) Bestätigungsfehler
 D) Replikation
-
 ✅ Richtige Antwort: C
 📝 Menschen neigen dazu, nur bestätigende Beispiele wahrzunehmen.
 
@@ -911,7 +828,6 @@ A) Kontrolle über Ausscheidung
 B) Lust durch Nahrungsaufnahme
 C) Sexualtrieb
 D) Rückzug ins Selbst
-
 ✅ Richtige Antwort: B
 📝 Saugen und Nahrungsaufnahme stehen im Zentrum – Entwicklung von Urvertrauen.
 
@@ -920,7 +836,6 @@ A) Triebverdrängung
 B) Entdeckung der Geschlechtsidentität
 C) Entwicklung von Autonomie durch Kontrolle über Ausscheidung
 D) Rebellion gegen Eltern
-
 ✅ Richtige Antwort: C
 📝 Kontrolle und Selbstständigkeit entwickeln sich durch Sauberkeitserziehung.
 
@@ -929,7 +844,6 @@ A) Geburt
 B) Vorschule
 C) Mit der Pubertät
 D) Im Alter
-
 ✅ Richtige Antwort: C
 📝 Die Sexualität richtet sich auf andere – Partnerschaft und Reife.
 
@@ -938,7 +852,6 @@ A) Was will der andere von mir?
 B) Was ist der Sachinhalt?
 C) Was sagt die Person über sich selbst?
 D) Wie ist unsere Beziehung?
-
 ✅ Richtige Antwort: C
 📝 Jede Aussage enthält Informationen über die sprechende Person.
 
@@ -947,6 +860,5 @@ A) Spontane Aufgabenverteilung
 B) Direkte und klare Rückmeldung
 C) Kontrolle durch Software
 D) Sofortige Kündigung
-
 ✅ Richtige Antwort: B
 📝 Feedback sollte schnell erfolgen, um Motivation und Lernen zu fördern.
