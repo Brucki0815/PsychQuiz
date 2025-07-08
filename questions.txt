@@ -1,863 +1,479 @@
-1. Welcher Aspekt unterscheidet nach Luhmann psychische von sozialen Systemen am deutlichsten?
-A) Psychische Systeme sind durch Gene determiniert, soziale Systeme durch Normen
-B) Psychische Systeme operieren durch Sinn, soziale Systeme durch Kommunikation
-C) Psychische Systeme verändern sich nicht, soziale Systeme sind hochdynamisch
-D) Psychische Systeme brauchen materielle Ressourcen, soziale Systeme nicht
+Welcher Aspekt unterscheidet den Self-Actualizing Man grundlegend vom Social Man?
+A) Der Wunsch nach sozialer Eingebundenheit
+B) Die Betonung von individuellen Entwicklungszielen
+C) Die Bedeutung von Gruppenprozessen für Leistung
+D) Die Rationalität bei der Zielverfolgung
 ✅ Richtige Antwort: B
-📝 In Luhmanns Systemtheorie erzeugt das Bewusstsein Sinn, während soziale Systeme ausschließlich über Kommunikation existieren.
+📝 Der Self-Actualizing Man strebt primär nach Selbstverwirklichung und Potenzialentfaltung, während der Social Man soziale Eingebundenheit fokussiert.
 
-2. Auf welcher Ebene des Luhmannschen Modells würden Sie das Phänomen 'Teammeeting' verorten?
-A) Psychische Ebene
-B) Soziale Ebene
-C) Technische Ebene
-D) Biologische Ebene
-✅ Richtige Antwort: B
-📝 Ein Teammeeting ist ein Ereignis kommunikativer Interaktionen und gehört damit zur sozialen Ebene.
-
-3. Welche Aussage trifft NICHT auf das Luhmannsche Ebenenmodell zu?
-A) Eine Intervention auf der sozialen Ebene kann technische Abläufe beeinflussen.
-B) Technische Systeme folgen ihrer eigenen Operationslogik.
-C) Psychische und soziale Systeme können nicht strukturell gekoppelt sein.
-D) Veränderungen auf einer Ebene wirken nicht automatisch auf alle anderen Ebenen.
+Welche Aussage trifft am ehesten auf den Complex Man zu?
+A) Menschen handeln stets rational, wenn sie ausreichend Informationen haben.
+B) Arbeitsmotivation basiert auf stabilen, angeborenen Bedürfnissen.
+C) Menschliches Verhalten ist situationsabhängig und individuell verschieden.
+D) Der Mensch ist primär durch soziale Zugehörigkeit motiviert.
 ✅ Richtige Antwort: C
-📝 Psychische und soziale Systeme koppeln sich strukturell, z. B. wenn Gedanken sprachlich kommuniziert werden.
+📝 Beim Complex Man gelten keine starren Motive; Verhalten variiert je nach Kontext, Erfahrung und Entwicklung.
 
-4. Welches Beispiel zeigt einen Übergang von der technischen in die soziale Ebene?
-A) Ein Algorithmus sortiert Daten nach Größe.
-B) Ein Mitarbeiter diskutiert die Ergebnisse eines Dashboards im Chat.
-C) Eine Person denkt über ihre Karriere nach.
-D) Ein Herzschrittmacher reguliert den Herzschlag.
-✅ Richtige Antwort: B
-📝 Die Interpretation technischer Output‐Daten im Gespräch ist Kommunikation und damit sozial.
-
-5. Welche Bedingung ist NOTWENDIG, damit eine Disziplin als empirische Wissenschaft gilt?
-A) Sie muss rein deduktiv vorgehen.
-B) Hypothesen müssen anhand systematischer Beobachtung überprüfbar sein.
-C) Ihre Theorien dürfen nicht falsifizierbar sein.
-D) Sie benötigt ausschließlich qualitative Methoden.
-✅ Richtige Antwort: B
-📝 Empirische Wissenschaften zeichnen sich durch überprüfbare Hypothesen aus, die gegen Beobachtungsdaten getestet werden.
-
-6. Was unterscheidet eine Hypothese von einer Theorie in der empirischen Forschung?
-A) Hypothesen sind umfassender als Theorien.
-B) Theorien sind Vermutungen ohne Datenbezug.
-C) Hypothesen sind überprüfbare Einzelannahmen, Theorien ein Netz verknüpfter Hypothesen.
-D) Es gibt keinen Unterschied.
+Was ist ein zentrales Merkmal des Virtual Man im Vergleich zu früheren Menschenbildern?
+A) Ein starkes Bedürfnis nach physischer Präsenz am Arbeitsplatz
+B) Die Fähigkeit zur Selbstverwirklichung durch manuelle Tätigkeit
+C) Die selektive Nutzung digitaler Informationen und Medien
+D) Ein starres, vorhersehbares Verhaltensmuster im Teamkontext
 ✅ Richtige Antwort: C
-📝 Eine Theorie integriert viele empirisch prüfbare Hypothesen in ein konsistentes Erklärungsmodell.
+📝 Der Virtual Man ist hochflexibel im Umgang mit digitalen Tools und Netzwerken.
 
-7. Welche der folgenden Methoden ist KEIN Beispiel für kontrollierte experimentelle Forschung?
-A) Randomisierte Zuordnung zu Bedingungen
-B) Querschnittsbefragung ohne Manipulation
-C) Placebo‐Kontrollgruppe
-D) Doppelblinddesign
+Welche Theorie passt am besten zum Self-Actualizing Man?
+A) Taylorismus
+B) Zwei-Faktoren-Theorie von Herzberg
+C) Hawthorne-Experimente
+D) Systemtheorie
 ✅ Richtige Antwort: B
-📝 Eine reine Befragung ohne Eingriff ist korrelativ, nicht experimentell.
+📝 Herzbergs Motivatoren – allen voran Selbstverwirklichung – spiegeln das Menschenbild des Self-Actualizing Man wider.
 
-8. Warum ist Replikation zentral für empirische Psychologie?
-A) Sie erhöht die ökologische Validität einzelner Fallstudien.
-B) Sie prüft, ob Effekte zufallsbedingt oder robust sind.
-C) Sie ersetzt statistische Signifikanztests.
-D) Sie erlaubt qualitative Interpretation von Befragungen.
-✅ Richtige Antwort: B
-📝 Wiederholte Befunde unter ähnlichen Bedingungen stärken die Aussagekraft des Effekts.
-
-9. Welche Datenquelle gehört NICHT zu den klassischen empirischen Zugängen der Psychologie?
-A) Introspektionsberichte
-B) Physiologische Messungen
-C) Alltagsintuitionen ohne systematische Erhebung
-D) Reaktionszeitexperimente
+Welcher Menschenbild-Vertreter steht in direkter Verbindung zum Human-Relations-Ansatz?
+A) Abraham Maslow
+B) Henry Ford
+C) George Elton Mayo
+D) Paul Watzlawick
 ✅ Richtige Antwort: C
-📝 Unsystematische Intuitionen gelten als Alltagspsychologie, nicht als empirische Daten.
+📝 Elton Mayo leitete die Hawthorne-Experimente und prägte den Social-Man-Gedanken.
 
-10. Welche Frage adressiert die Wirtschaftspsychologie auf der psychischen Ebene am ehesten?
-A) Wie beeinflussen Führungskräfte Kommunikationsflüsse zwischen Abteilungen?
-B) Wie wirkt sich Interface‐Design auf individuelle Entscheidungs­prozesse aus?
-C) Wie verändern KI‐Basierte Prognosen die Marktstruktur?
-D) Wie bilden sich Netzwerke zwischen Unternehmen?
-✅ Richtige Antwort: B
-📝 Die psychische Ebene bezieht sich auf das Erleben einzelner Personen, z. B. beim Umgang mit Technik.
-
-11. Welche Kombination verdeutlicht das Zusammenspiel aller drei Ebenen im wirtschaftspsychologischen Kontext?
-A) Mitarbeiter‑Motivation, Organisationsklima, Aktienkurs
-B) Kaufsignal eines Algorithmus, Kundengespräch, Trader‑Emotion
-C) Serverausfall, Urlaubsantrag, Jahresabschluss
-D) Lagerbestand, Lieferkette, Investorenmeeting
-✅ Richtige Antwort: B
-📝 Algorithmus = technische Ebene, Kundengespräch = soziale Ebene, Trader‑Emotion = psychische Ebene.
-
-12. Warum hilft das Ebenenmodell bei der Einführung einer neuen HR‑Software?
-A) Es zeigt, dass technische Features psychische Prozesse ignorieren können.
-B) Es trennt soziale von ökonomischen Prozessen strikt.
-C) Es beweist, dass psychische Ebene unwichtig ist.
-D) Es begrenzt die Analyse auf Kommunikationsstrukturen.
-✅ Richtige Antwort: A
-📝 Die Software kann nur erfolgreich sein, wenn auch soziale Kommunikation und individuelle Nutzung bedacht werden.
-
-13. Welche Reihenfolge repräsentiert die vier klassischen Ziele psychologischer Forschung am zutreffendsten?
-A) Vorhersagen – Verändern – Beschreiben – Erklären
-B) Beschreiben – Erklären – Vorhersagen – Verändern
-C) Erklären – Beschreiben – Verändern – Vorhersagen
-D) Verändern – Beschreiben – Vorhersagen – Erklären
-✅ Richtige Antwort: B
-📝 Psychologie beginnt mit Beschreibung, strebt Erklärung an, ermöglicht Prognose und letztlich Intervention.
-
-14. Ein funktionaler Zusammenhang ist gegeben, wenn ...
-A) zwei Variablen korrelieren, ohne Ursache‑Wirkungs‑Nachweis
-B) eine Variable die andere eindeutig verursacht
-C) kein statistischer Zusammenhang besteht
-D) die Beziehung nur qualitativ beschrieben wird
-✅ Richtige Antwort: A
-📝 Funktionale Zusammenhänge basieren oft auf Korrelation; Kausalität ist stärker.
-
-15. Was macht ein Studiendesign kausal INFERENZSTÄRKER als ein korrelatives?
-A) Große Stichprobe allein
-B) Manipulation der unabhängigen Variable und Kontrolle von Störvariablen
-C) Anwendung multipler Regression
-D) Signifikanzniveau unter 0,05
-✅ Richtige Antwort: B
-📝 Nur kontrollierte Manipulation erlaubt eindeutige Kausalinterpretationen.
-
-16. Welche Aussage beschreibt ein typisches Ziel der angewandten Psychologie?
-A) Entwicklung einer reinen Basistheorie ohne Praxisbezug
-B) Vorhersage von Verhaltenswahrscheinlichkeiten unter definierten Bedingungen
-C) Post hoc Erklärung einmaliger Einzelfälle
-D) Kategorisierung psychischer Störungen ohne Behandlung
-✅ Richtige Antwort: B
-📝 Angewandte Psychologie nutzt Modelle, um Verhalten verlässlich zu prognostizieren.
-
-17. Der Primacy‑Effekt tritt besonders stark auf, wenn ...
-A) Informationen schnell nacheinander präsentiert werden und später nicht mehr abrufbar sind
-B) die ersten dargebotenen Items tiefer verarbeitet werden als spätere
-C) die mittleren Items einer Liste semantisch herausstechen
-D) die letzte Information emotional aufgeladen ist
-✅ Richtige Antwort: B
-📝 Eine tiefe Verarbeitung der ersten Items führt zu besserer Enkodierung ins Langzeitgedächtnis.
-
-18. Welches Szenario illustriert ein semantisches Priming?
-A) Nach dem Wort 'Arzt' erkennt man 'Krankenschwester' schneller.
-B) Nach körperlicher Anstrengung empfindet man Angst stärker.
-C) Nach dem Lesen eines Trauertextes wirkt Musik trauriger.
-D) Nach vier Kaffee fühlt man sich nervös.
-✅ Richtige Antwort: A
-📝 Semantisch verwandte Wörter aktivieren gemeinsam gespeicherte Konzepte und beschleunigen Erkennung.
-
-19. Welche neurokognitive Erklärung wird häufig für Priming‑Effekte herangezogen?
-A) Beschädigung des Hippocampus
-B) Spreizung der Aktionspotentiale
-C) Aktivierung verteilter semantischer Netzwerke
-D) Verlust der myelinisierten Axone
+Was wäre aus Sicht des Economic Man ein effektives Mittel zur Leistungssteigerung?
+A) Teamentwicklung und Gruppengespräche
+B) Persönlichkeitsentwicklung und Coaching
+C) Belohnungssysteme auf Basis von Leistung und Effizienz
+D) Digitalisierung der sozialen Kommunikation
 ✅ Richtige Antwort: C
-📝 Priming wird auf eine kurzzeitige Aktivierung assoziierter neuronaler Repräsentationen zurückgeführt.
+📝 Der Economic Man reagiert auf externe, v. a. monetäre Anreize zur Nutzenmaximierung.
 
-20. Ein Experiment zeigt Priming‑Effekte nur, wenn die Verarbeitung unbewusst bleibt. Wie nennt man diese Form?
-A) Subliminales Priming
-B) Perzeptuelles Priming
-C) Episodisches Priming
-D) Negative Priming
-✅ Richtige Antwort: A
-📝 Subliminales Priming wirkt unterhalb der Bewusstseinsschwelle.
-
-21. Welcher Lerntyp nach Bandura setzt Beobachtung und symbolische Verarbeitung voraus?
-A) Operantes Konditionieren
-B) Modelllernen
-C) Klassisches Konditionieren
-D) Habituation
-✅ Richtige Antwort: B
-📝 Beim Modelllernen werden Handlungen anderer mental repräsentiert und nachgeahmt.
-
-22. Welche Bedingung ist für effektives operantes Konditionieren am WICHTIGSTEN?
-A) Bestrafung muss verzögert sein
-B) Verstärkung muss kontingent auf Verhalten folgen
-C) Stimulus muss neutral bleiben
-D) Reizgeneralisierung muss verhindert werden
-✅ Richtige Antwort: B
-📝 Nur wenn Konsequenz auf Verhalten folgt, wird die Kontingenz erkannt.
-
-23. Ein Hund hört einen Pfiff (neutraler Reiz), bekommt sofort Futter (unkonditionierter Reiz) und speichelt beim Pfiff. Dies illustriert ...
-A) Operante Konditionierung
-B) Klassische Konditionierung
-C) Latentes Lernen
-D) Einsichtslernen
-✅ Richtige Antwort: B
-📝 Die Kopplung eines neutralen Reizes an einen bedeutungsvollen Reiz ist klassisches Konditionieren.
-
-24. Welche Aussage trifft auf kognitives Lernen im Sinne des Einsichtslernens zu?
-A) Lernen erfolgt ausschließlich durch Versuch und Irrtum.
-B) Verstärkung ist zwingend notwendig.
-C) Lernen basiert auf plötzlichem Verstehen von Zusammenhängen.
-D) Es handelt sich um eine Form der physiologischen Habituation.
-✅ Richtige Antwort: C
-📝 Beim Einsichtslernen reorganisiert sich die Problemlösung kognitiv, oft plötzlich (Aha‐Erlebnis).
-
-25. Bei welcher Kombination von Lernformen wird am ehesten eine TOKEN‑Economy eingesetzt?
-A) Operantes Konditionieren und Modelllernen
-B) Kognitives Lernen und Habituation
-C) Klassisches Konditionieren und Sensitivierung
-D) Latentes Lernen und sozial‐konstruktivistisches Lernen
-✅ Richtige Antwort: A
-📝 Token als sekundäre Verstärker sind ein typisches operantes Instrument und können durch Modellvorbilder vermittelt werden.
-
-26. Welches Kriterium unterscheidet eindeutig operantes von klassischem Konditionieren?
-A) Beim operanten Konditionieren wird ein reflexartiger Reiz gekoppelt.
-B) Beim operanten Konditionieren hängt die Konsequenz vom Verhalten des Organismus ab.
-C) Beim klassischen Konditionieren tritt keine Generalisierung auf.
-D) Beim klassischen Konditionieren kann kein Auslöschungsprozess erfolgen.
-✅ Richtige Antwort: B
-📝 Operantes Konditionieren basiert auf Verhaltens‑Konsequenz‑Kontingenzen, nicht auf Reiz‑Reiz‐Kontingenzen.
-
-27. Welches Muster charakterisiert den fundamentalen Attributionsfehler?
-A) Überschätzung situativer Einflüsse bei Anderen
-B) Überschätzung dispositionaler Einflüsse bei Anderen
-C) Überschätzung genetischer Einflüsse bei sich selbst
-D) Unterschätzung der Stabilität von Persönlichkeitsmerkmalen
-✅ Richtige Antwort: B
-📝 Beobachter führen fremdes Verhalten oft auf stabile Dispositionen zurück, ignorieren Situationseinflüsse.
-
-28. In welcher Bedingung wird der fundamentale Attributionsfehler TYPISCHERWEISE REDUZIERT?
-A) Wenn Beobachter Zeitdruck haben
-B) Wenn Beobachter hohe Kognitionsressourcen besitzen und informiert sind
-C) Wenn Verhalten sehr überraschend ist
-D) Wenn das Verhalten sozial erwünscht ist
-✅ Richtige Antwort: B
-📝 Genügend Information zu situativen Faktoren ermöglicht eine korrektere Attribution.
-
-29. Welche Theorie erklärt den fundamentalen Attributionsfehler durch begrenzte Verarbeitungskapazität?
-A) Self‐Perception‐Theory
-B) Attributionstheorie von Kelley (Kovariationsmodell)
-C) Zwei‐Prozess‐Modell von Gilbert
-D) Balanced Identity Theory
-✅ Richtige Antwort: C
-📝 Gilbert postuliert einen automatischen dispositionalen Schritt und einen optionalen, ressourcenabhängigen Korrekturschritt.
-
-30. Welche Aussage beschreibt typische 'Psycho‑Logik' im Organisationskontext?
-A) Entscheidung nach maximaler Kosten‑Nutzen‑Analyse
-B) Handlungssteuerung primär durch objektive Daten
-C) Verhaltensbegründung über subjektive Motive und Gefühle
-D) Strikte Anwendung formaler Deduktion in Meetings
-✅ Richtige Antwort: C
-📝 Psycho‑Logik betont individuelle, emotional gefärbte Folgerichtigkeit anstelle objektiver Rationalität.
-
-31. Welches heuristische Verfahren illustriert eher Psycho‑Logik als formale Logik?
-A) Bayes‑Theorem
-B) Modus Ponens
-C) Ankereffekt bei Preisverhandlungen
-D) Induktives Schließen aus Prämissen
-✅ Richtige Antwort: C
-📝 Der Ankereffekt zeigt, wie anfängliche Zahlen Schätzungen verzerren – rational nicht gerechtfertigt, aber psychologisch plausibel.
-
-32. Welcher Körpersaft wurde in der antiken Lehre dem cholerischen Temperament zugeordnet?
-A) Schwarze Galle
-B) Gelbe Galle
-C) Schleim
-D) Blut
-✅ Richtige Antwort: B
-📝 Choleriker galten als durch gelbe Galle bestimmt, was Reizbarkeit symbolisierte.
-
-33. Welche Eigenschaft kombinierten Hippokrates und Galen mit dem sanguinischen Typus?
-A) Zurückgezogenheit
-B) Heiterkeit und Geselligkeit
-C) Perfektionismus
-D) Aggressivität
-✅ Richtige Antwort: B
-📝 Sanguiniker wurden als lebensfroh und kontaktfreudig beschrieben.
-
-34. Welches Temperament ordnet Eysenck im Persönlichkeitsraum 'introvertiert' & 'emotional stabil' zu?
-A) Choleriker
-B) Melancholiker
-C) Phlegmatiker
-D) Sanguiniker
-✅ Richtige Antwort: C
-📝 Phlegmatiker sind introvertiert und stabil – ruhig, zuverlässig.
-
-35. Die antike Temperamentenlehre hatte starken Einfluss auf ...
-A) Piagets Stufentheorie
-B) Freuds Triebtheorie
-C) Eysencks PEN‑Modell
-D) Skinner’s Behaviorismus
-✅ Richtige Antwort: C
-📝 Eysenck verknüpfte Temperamente mit Extraversion und Neurotizismus.
-
-36. Welche Dimension ERGÄNZTE Eysenck später zu Extraversion und Neurotizismus?
-A) Psychotizismus
-B) Offenheit
-C) Gewissenhaftigkeit
-D) Agreeableness
-✅ Richtige Antwort: A
-📝 Psychotizismus wurde als dritte Dimension eingeführt und umfasst Impulsivität und Kälte.
-
-37. Im PEN‑Modell liegt ein hoch introvertierter, labiler Student in welchem Quadranten?
-A) Cholerisch
-B) Melancholisch
-C) Sanguinisch
-D) Phlegmatisch
-✅ Richtige Antwort: B
-📝 Introvertiert + labil entspricht melancholisch.
-
-38. Eine Person mit niedrigen Neurotizismus‑Werten zeigt typischerweise ...
-A) hohe emotionale Stabilität
-B) starke Impulsivität
-C) hohe Aggressivität
-D) chronische Unsicherheit
-✅ Richtige Antwort: A
-📝 Geringer Neurotizismus bedeutet gelassen und stressresistent.
-
-39. Welche Aussage ist FALSCH im Kontext des Eysenck’schen Modells?
-A) Extraversion korreliert positiv mit Geselligkeit.
-B) Neurotizismus bezieht sich auf emotionale Labilität.
-C) Psychotizismus ist identisch mit Gewissenhaftigkeit.
-D) Dimensionen werden biologisch verankert angenommen.
-✅ Richtige Antwort: C
-📝 Psychotizismus unterscheidet sich konzeptionell deutlich von Gewissenhaftigkeit.
-
-40. Weiner unterscheidet Ursachen entlang dreier Dimensionen. Welche gehört NICHT dazu?
-A) Lokation
-B) Stabilität
-C) Kontrollierbarkeit
-D) Valenz
-✅ Richtige Antwort: D
-📝 Valenz ist kein Bestandteil des klassischen Attributionsschemas.
-
-41. Ein Schüler schreibt eine schlechte Note und sagt: 'Ich bin zu dumm.' Wie wird das attribuiert?
-A) Intern – variabel – kontrollierbar
-B) Intern – stabil – nicht kontrollierbar
-C) Extern – stabil – kontrollierbar
-D) Extern – variabel – nicht kontrollierbar
-✅ Richtige Antwort: B
-📝 Fähigkeit gilt als interne, stabile und kaum kontrollierbare Ursache.
-
-42. Erfolgszuversichtliche Personen interpretieren Misserfolg häufig als ...
-A) intern, stabil
-B) intern, variabel
-C) extern, variabel
-D) extern, stabil
-✅ Richtige Antwort: C
-📝 Sie führen Fehlschläge z. B. auf Pech (extern, variabel) zurück, was Motivation erhält.
-
-43. Welche Kombination erhöht laut Weiner ERGEBNISERWARTUNG UND HANDLUNGSKONTROLLE?
-A) Intern & kontrollierbar
-B) Extern & stabil
-C) Intern & nicht kontrollierbar
-D) Extern & variabel
-✅ Richtige Antwort: A
-📝 Wenn ich Leistung auf eigene Anstrengung zurückführe, glaube ich, zukünftige Leistungen beeinflussen zu können.
-
-44. Misserfolgsängstliche Personen zeigen oft ...
-A) Aufgabensuche
-B) Annäherungsverhalten
-C) Vermeidung schwieriger Ziele
-D) Zufallsantworten
-✅ Richtige Antwort: C
-📝 Angst vor erneutem Versagen führt zur Vermeidung herausfordernder Situationen.
-
-45. Welches Menschenbild betont vor allem materielle Anreize und Kontrolle?
+Welches Menschenbild ist am stärksten mit systemtheoretischen Ansätzen verbunden?
 A) Social Man
-B) Self‑actualizing Man
-C) Economic Man
-D) Virtual Man
-✅ Richtige Antwort: C
-📝 Economic Man (frühe 1900er) sieht den Menschen als faul, nur durch Geld motivierbar.
-
-46. Die Hawthorne‑Studien von Elton Mayo leiteten den Übergang zu welchem Menschenbild ein?
-A) Economic Man
-B) Social Man
-C) Complex Man
-D) Virtual Man
-✅ Richtige Antwort: B
-📝 Die Bedeutung von Gruppenzugehörigkeit macht den Social Man aus.
-
-47. Selbstverwirklichung als zentraler Treiber charakterisiert den ...
-A) Self‑actualizing Man
 B) Complex Man
 C) Virtual Man
 D) Economic Man
-✅ Richtige Antwort: A
-📝 Ab den 1950er Jahren wurde intrinsische Motivation betont.
-
-48. Welches Menschenbild postuliert, dass Motivation situationsabhängig variiert?
-A) Self‑actualizing Man
-B) Complex Man
-C) Economic Man
-D) Social Man
 ✅ Richtige Antwort: B
-📝 Complex Man integriert differenzielle Sichtweisen und Kontextabhängigkeit.
+📝 Verhalten des Complex Man wird als Ergebnis dynamischer Person-Umwelt-Systeme verstanden.
 
-49. Digitale Vernetzung und Mobilität sind Schlüsselmerkmale des ...
-A) Virtual Man
+In welchem Menschenbild ist die Trennung von „Kopf- und Handarbeit“ ein zentrales Prinzip?
+A) Self-Actualizing Man
 B) Economic Man
-C) Complex Man
+C) Virtual Man
 D) Social Man
-✅ Richtige Antwort: A
-📝 Virtual Man beschreibt den flexibel vernetzten Mitarbeiter des 21. Jahrhunderts.
+✅ Richtige Antwort: B
+📝 Der tayloristische Economic Man sieht Planung (Denken) und Ausführung (Handeln) strikt getrennt.
 
-50. Welche organisatorische Konsequenz leitet sich aus dem Menschenbild des Virtual Man ab?
-A) Tayloristische Fließbänder
-B) Bürokratische Hierarchie
-C) Virtuelle Teams und Netzwerkorganisation
-D) Mikromanagement
+Welche Kritik trifft am ehesten auf das Modell des Social Man zu?
+A) Es unterschätzt die Rolle von Technologie im Arbeitsleben.
+B) Es geht von einem zu individualistischen Menschenbild aus.
+C) Es ignoriert die Bedeutung wirtschaftlicher Anreize.
+D) Es vernachlässigt die Anpassungsfähigkeit an digitale Umgebungen.
 ✅ Richtige Antwort: C
-📝 Das Virtual‑Man‑Paradigma bevorzugt flexible, digital gestützte Teamstrukturen.
+📝 Soziale Bedürfnisse stehen so stark im Vordergrund, dass ökonomische Motive kaum berücksichtigt werden.
 
-51. Welches Axiom von Watzlawick beschreibt, dass jede Kommunikation einen Inhalts‑ und einen Beziehungsaspekt hat?
-A) Axiom 1
-B) Axiom 2
-C) Axiom 3
-D) Axiom 4
+Welche Aussage charakterisiert den Virtual Man am treffendsten?
+A) Menschen bevorzugen analoge, stabile Arbeitsumgebungen.
+B) Der Einsatz digitaler Medien ist motivierend, aber selten bewusst gesteuert.
+C) Menschen verarbeiten Informationen selektiv und agieren flexibel in Netzwerken.
+D) Soziale Zugehörigkeit ist die Hauptquelle der Arbeitsmotivation.
+✅ Richtige Antwort: C
+📝 Der Virtual Man kombiniert hohe Medienkompetenz mit netzwerkorientierter Flexibilität.
+
+Welcher Aspekt unterscheidet die psychologische Definition von „Verhalten“ von der alltagspsychologischen?
+A) Einbezug vegetativer Prozesse
+B) Forderung nach intersubjektiver Überprüfbarkeit
+C) Fokussierung auf unbewusste Triebe
+D) Betonung kulturspezifischer Normen
 ✅ Richtige Antwort: B
-📝 Axiom 2 differenziert Inhaltsebene (Was) und Beziehungsebene (Wie).
+📝 Wissenschaftliche Psychologie verlangt mess- und replizierbare Beobachtungen, nicht bloße Intuition.
 
-52. Das Prinzip 'Man kann nicht nicht kommunizieren' bedeutet, dass ...
-A) Nur verbale Aussagen als Kommunikation gelten
-B) Schweigen auch eine Botschaft sendet
-C) Kommunikation ausschließlich intentional ist
-D) Kommunikation beliebig unterbrochen werden kann
+Die Aussage „Psychologie ist eine empirische Wissenschaft“ impliziert zwingend, dass …
+A) jedes Forschungsergebnis generalisierbar ist.
+B) ausschließlich Laborexperimente verwendet werden.
+C) systematische Datenerhebung die Basis aller Schlussfolgerungen bildet.
+D) Erleben nicht untersucht werden kann.
+✅ Richtige Antwort: C
+📝 Empirie bedeutet methodisch kontrollierte Beobachtung, Messung und Auswertung.
+
+Welches Kriterium grenzt wissenschaftliche von Alltagspsychologie am schärfsten ab?
+A) Anwendungsbezug
+B) Objektivität
+C) Introspektion
+D) Popularität
 ✅ Richtige Antwort: B
-📝 Jede Verhaltensäußerung, auch Schweigen, hat Mitteilungscharakter.
+📝 Objektivität sichert Ergebnisunabhängigkeit von der forschenden Person.
 
-53. Symmetrische Kommunikation ist gekennzeichnet durch ...
-A) Unterschiedliche Machthierarchien
-B) Gleichwertigkeit der Partner
-C) Einseitige Appelle
-D) Ironie
+In Myers’ (2008) Definition dient der Begriff „Wissenschaft“ primär dazu …
+A) Erleben aus dem Begriffskern auszuschließen.
+B) Theorien ohne Messbarkeit zuzulassen.
+C) methodische Prüfbarkeit zu fordern.
+D) nur Neuroprozesse einzuschließen.
+✅ Richtige Antwort: C
+📝 „Schlüsselwort Wissenschaft“ verweist auf die Notwendigkeit empirischer Prüfbarkeit.
+
+Welche Kombination beschreibt die vollständige Gegenstandsbestimmung der Psychologie nach Klauk?
+A) Verhalten & Emotion
+B) Kognition & Motivation
+C) Verhalten & Erleben
+D) Bewusstsein & Gedächtnis
+✅ Richtige Antwort: C
+📝 Psychologie erforscht äußeres Verhalten sowie inneres Erleben.
+
+Welche Zuordnung ist nach Klauk falsch?
+A) Biologische Psychologie – Grundlagen
+B) Verkehrspsychologie – Anwendung
+C) Medienpsychologie – Grundlagen
+D) Klinische Psychologie – Anwendung
+✅ Richtige Antwort: C
+📝 Medienpsychologie zählt zu den Anwendungsfächern.
+
+Ein empirischer Vergleich zweier Therapieverfahren fällt in …
+A) Differenzielle Psychologie
+B) Klinische Psychologie
+C) Sozialpsychologie
+D) Pädagogische Psychologie
 ✅ Richtige Antwort: B
-📝 Symmetrie bedeutet, dass beide Interaktionspartner auf Augenhöhe agieren.
+📝 Die Klinische Psychologie untersucht Wirksamkeit psychotherapeutischer Maßnahmen.
 
-54. Die Unterscheidung zwischen digitaler und analoger Modalität bei Watzlawick bezieht sich auf ...
-A) dichotome Datenformate
-B) Sprache versus nonverbale Zeichen
-C) digitale vs analoge Uhren
-D) Kommunikation per E‑Mail
+Welcher Bereich adressiert sowohl Personen- als auch Umweltmerkmale systematisch?
+A) Rechtspsychologie
+B) Umweltpsychologie
+C) Sportpsychologie
+D) Entwicklungspsychologie
 ✅ Richtige Antwort: B
-📝 Digitale Modalität = Worte; analog = Gestik, Tonfall, Mimik.
+📝 Die Umweltpsychologie analysiert die wechselseitige Beziehung zwischen Individuum und Umwelt.
 
-55. Im Vier‑Ohren‑Modell entspricht das 'rote Ohr' klassischerweise ...
-A) Selbstoffenbarung
-B) Beziehung
-C) Appell
-D) Sachinhalt
+Warum ordnet Klauk die Allgemeine Psychologie den Grundlagenfächern zu?
+A) Sie nutzt vorwiegend Tierexperimente.
+B) Ihre Erkenntnisse sind praxisunabhängig allgemeingültig.
+C) Sie verwendet keine Statistik.
+D) Sie entwickelt spezifische Interventionen.
 ✅ Richtige Antwort: B
-📝 Schulz von Thun verwendet Farbcodes, rot steht für Beziehungsebene.
+📝 Allgemeine Mechanismen (z. B. Wahrnehmung, Lernen) gelten über Situationen hinweg.
 
-56. Welche Ebene wird aktiviert, wenn der Empfänger auf 'Fahr los!' als Befehl reagiert?
-A) Sachohr
-B) Selbstoffenbarungsohr
-C) Beziehungsohr
-D) Appellohr
+Welches Kriterium ist nicht maßgeblich für die Einteilung in Grund- vs. Anwendungsfächer?
+A) Historisches Alter des Teilgebiets
+B) Erkenntnisinteresse (Erklären versus Verändern)
+C) Nähe zur Praxis
+D) Typische Methodenwahl
+✅ Richtige Antwort: A
+📝 Die Einteilung folgt aktuellen Zielen, nicht dem Entstehungsdatum.
+
+Der Primacy-Effekt erklärt, warum frühe Informationen …
+A) stärker vergessen werden.
+B) Urteile disproportional prägen.
+C) weniger abrufbar sind.
+D) nur bei negativen Reizen wirken.
+✅ Richtige Antwort: B
+📝 Erste Eindrücke dominieren die Gesamtbeurteilung.
+
+Welche Experimentalvariation schwächt den Primacy-Effekt am ehesten?
+A) Verlangsamte Darbietungsrate
+B) Unzusammenhängende Adjektivlisten
+C) Ablenkungsaufgabe zwischen Reizen
+D) Verstärkung emotionaler Valenz
+✅ Richtige Antwort: C
+📝 Unterbrochenes Rehearsal reduziert den Vorsprung der Anfangsitems.
+
+In Bewerbungsinterviews führt der Primacy-Effekt typischerweise zu …
+A) erhöhter Objektivität.
+B) Konfidenzintervallen.
+C) Halo-Effekten.
+D) Aufmerksamkeitsdefiziten.
+✅ Richtige Antwort: C
+📝 Frühe Eindrücke färben die Bewertung weiterer Merkmale (Halo).
+
+Welche Bedingung maximiert den Kontrast zwischen Primacy- und Recency-Effekt?
+A) Homogene Reizliste
+B) Hohe Listenlänge und sofortige Reproduktion
+C) Niedrige Listenlänge und verzögerte Reproduktion
+D) Emotional neutrale Items
+✅ Richtige Antwort: B
+📝 Lange Listen ermöglichen beide Effekte; sofortiger Abruf begünstigt Recency.
+
+Der Primacy-Effekt lässt sich aus Sicht des Drei-Speicher-Modells primär durch … erklären.
+A) Höhere semantische Kodierungstiefe im Arbeitsgedächtnis
+B) Rasche sensorische Zerfallsprozesse
+C) Proaktive Interferenz
+D) Retrograde Amnesie
+✅ Richtige Antwort: A
+📝 Frühe Items werden häufiger wiederholt und ins Langzeitgedächtnis übertragen.
+
+Welche Funktion erfüllt das Über-Ich nach Freud?
+A) Quell sexueller Triebe
+B) Vermittler zwischen Trieb und Realität
+C) Internalisierte Normen und Verbote
+D) Speicher unbewusster Wünsche
+✅ Richtige Antwort: C
+📝 Das Über-Ich repräsentiert erlernte Moralstandards.
+
+Konflikte entstehen laut Freud, wenn …
+A) Es und Über-Ich identisch zielen.
+B) Ich die Realität verzerrt wahrnimmt.
+C) Über-Ich Reize blockiert.
+D) Forderungen von Es, Über-Ich und Realität unvereinbar sind.
 ✅ Richtige Antwort: D
-📝 Die Nachricht enthält einen Appell, eine Handlungsaufforderung.
+📝 Das Ich muss widersprüchliche Ansprüche simultan bewältigen.
 
-57. Ein Missverständnis entsteht häufig, weil Sender ...
-A) alle vier Ebenen bewusst codieren
-B) unterschiedliche Betonung der Ebenen wählen als Empfänger decodieren
-C) sich nur auf nonverbales Feedback verlassen
-D) nie Beziehungsaussagen senden
+Welche Abwehrmechanismus-Kombination ist korrekt geordnet von primitiv zu reif?
+A) Sublimierung → Projektion → Verdrängung
+B) Verleugnung → Reaktionsbildung → Sublimierung
+C) Rationalisierung → Regression → Spaltung
+D) Verdrängung → Intellektualisierung → Projektion
 ✅ Richtige Antwort: B
-📝 Wenn Sender primär Sachebene, Empfänger Beziehungsebene hört, kommt es zu Konflikten.
+📝 Verleugnung gilt als basal, Sublimierung als hoch adaptiv.
 
-58. Welches Beispiel zeigt eine Botschaft mit dominanter Selbstoffenbarungsebene?
-A) 'Ich bin total nervös vor dem Meeting.'
-B) 'Schließe bitte das Fenster.'
-C) 'Die Präsentation dauert 20 Minuten.'
-D) 'Mit dir kann man echt nicht arbeiten.'
-✅ Richtige Antwort: A
-📝 Der Sprecher offenbart innere Zustände – Selbstoffenbarung.
-
-59. Welche Gestaltungsbedingung des GuPF‑Modells ist erfüllt, wenn ein Entwickler das Endprodukt an Kunden testen sieht?
-A) Ganzheitlichkeit
-B) Unmittelbarkeit
-C) Personenbezug
-D) Förderlichkeit
-✅ Richtige Antwort: B
-📝 Direktes Feedback von Kunden liefert unmittelbare Rückmeldung zum Arbeitsergebnis.
-
-60. Eine monotone Fließbandtätigkeit verletzt primär welches GuPF‑Kriterium?
-A) Ganzheitlichkeit
-B) Förderlichkeit
-C) Personenbezug
-D) Unmittelbarkeit
-✅ Richtige Antwort: A
-📝 Wenn Beschäftigte nur einen Teilschritt sehen, fehlt Ganzheitlichkeit.
-
-61. Weiterbildungsangebote im Unternehmen stärken laut GuPF ...
-A) Personenbezug
-B) Unmittelbarkeit
-C) Förderlichkeit
-D) Ganzheitlichkeit
+Das Ich setzt primär das Realitätsprinzip um, indem es …
+A) unmittelbare Triebbefriedigung sucht.
+B) Spannung via Halluzination abbaut.
+C) Triebaufschub zugunsten realer Bedingungen leistet.
+D) Moralisches Urteil über Triebe fällt.
 ✅ Richtige Antwort: C
-📝 Förderlichkeit hebt Entwicklung und Lernen hervor.
+📝 Das Ich prüft Bedingungen und verzögert Bedürfnisbefriedigung bei Bedarf.
 
-62. Ein Start‑up gibt Mitarbeitenden Entscheidungsfreiheit, damit sie ihre Identität einbringen. Welches Kriterium ist das?
-A) Personenbezug
-B) Unmittelbarkeit
-C) Förderlichkeit
-D) Ganzheitlichkeit
+Welche Aussage ist mit Freuds Modell unvereinbar?
+A) Über-Ich verfügt über bewusste und unbewusste Elemente.
+B) Ich-Funktionen sind vollständig bewusst.
+C) Es bleibt vollständig unbewusst.
+D) Moralische Schuldgefühle entstammen dem Über-Ich.
+✅ Richtige Antwort: B
+📝 Auch das Ich besitzt vor- bzw. unbewusste Anteile.
+
+Der fundamentale Attributionsfehler beschreibt …
+A) Unterschätzung situativer Einflüsse auf fremdes Verhalten.
+B) Überschätzung eigener Fähigkeiten.
+C) Verzerrte Selbst-Handlungsvorhersage.
+D) Selektives Erinnern positiver Ergebnisse.
 ✅ Richtige Antwort: A
-📝 Personenbezug verlangt, dass Arbeit bedeutsam für das Selbst ist.
+📝 Beobachter überbewerten Dispositionen und unterschätzen Situationen.
 
-63. Welcher Vorteil teilautonomer Arbeitsgruppen ist empirisch am BESTEN belegt?
-A) Reduktion von Krankheitsausfällen
-B) Steigerung extrinsischer Motivation
-C) Zunahme von Verantwortungsgefühl und Prozessqualität
-D) Verringerung der Qualifikationsanforderungen
-✅ Richtige Antwort: C
-📝 Autonomie fördert Verantwortungsübernahme und verbessert die Qualität selbstkontrolliert.
-
-64. Welche Aufgabe bleibt typischerweise NICHT in der Verantwortung teilautonomer Teams?
-A) Arbeitszeitplanung
-B) Qualitätssicherung der eigenen Produkte
-C) Festlegung strategischer Unternehmensziele
-D) Aufteilung operativer Arbeitsschritte
-✅ Richtige Antwort: C
-📝 Strategische Ziele werden auf höherer Organisationsebene definiert.
-
-65. Ein Manager, der gern Macht ausübt, aber wenig Wert auf Beziehungen legt, weist laut McClelland ... aus.
-A) hohes Anschluss‑ und Leistungsmotiv
-B) hohes Machtmotiv, niedriges Anschlussmotiv
-C) niedriges Macht‑ und Leistungsmotiv
-D) hohes Anschluss‑ und Machtmotiv
+Im klassischen Weiner-Modell liegen Stabilität und Kontrollierbarkeit extern bei …
+A) Anstrengung
+B) Glück
+C) Schwierigkeit
+D) Fähigkeit
 ✅ Richtige Antwort: B
-📝 Dominanz steht hier im Vordergrund, während soziale Nähe gering ist.
+📝 Glück ist extern, instabil und nicht kontrollierbar.
 
-66. Welche Intervention fördert gezielt das Leistungsmotiv?
-A) Vergabe von Statussymbolen
-B) Übertragung herausfordernder, aber erreichbarer Ziele
-C) Teambuilding‑Events
-D) Stabile Arbeitsbedingungen ohne Zielvorgaben
-✅ Richtige Antwort: B
-📝 Moderate Herausforderungen und Feedback aktivieren das n‑Achieve‑Motiv.
-
-67. Hohes Anschlussmotiv in einer Führungskraft kann ...
-A) Führungsentscheidungen verzögern
-B) Innovationsneigung erhöhen
-C) Belohnungsaufschub verstärken
-D) Aggressionsbereitschaft steigern
-✅ Richtige Antwort: A
-📝 Führungskräfte mit starkem Wunsch nach sozialer Akzeptanz schrecken vor unpopulären Entscheidungen zurück.
-
-68. Die Installation ergonomischer Tastaturen nach Auftreten zahlreicher Handgelenkbeschwerden ist ein Beispiel für ...
-A) präventive Arbeitsgestaltung
-B) prospektive Arbeitsgestaltung
-C) korrektive Arbeitsgestaltung
-D) transformative Arbeitsgestaltung
-✅ Richtige Antwort: C
-📝 Maßnahme reagiert auf bereits vorhandene Probleme – korrektiv.
-
-69. Welche Strategie entspricht prospektiver Arbeitsgestaltung?
-A) Rotationspläne, um zukünftige Monotonie zu vermeiden
-B) Arbeitsplatzbeleuchtung nach DIN‑Norm einhalten
-C) Reparatur defekter Werkzeuge
-D) Betriebliches Eingliederungsmanagement nach Krankheit
-✅ Richtige Antwort: A
-📝 Prospektiv ist zukunftsgerichtet und fördert langfristige Gesundheit.
-
-70. Ein Gesundheitstag im Unternehmen vor Einführung neuer Schichtarbeit dient ...
-A) präventiven Zielen
-B) korrektiven Zielen
-C) prospektiven Zielen
-D) primären Zielen
-✅ Richtige Antwort: A
-📝 Präventiv bedeutet, potenzielle Belastungen im Voraus abfedern.
-
-71. Welche Kombination aus Führungsstil und Reifegrad ist KORREKT?
-A) Delegieren – niedriger Reifegrad
-B) Überzeugen – mittlerer Reifegrad
-C) Anweisen – hoher Reifegrad
-D) Partizipieren – sehr niedriger Reifegrad
-✅ Richtige Antwort: B
-📝 Selling/Überzeugen passt zu moderater Reife: noch Anleitung, aber Motivationsaufbau.
-
-72. Im Reifegradmodell steigt der Mitarbeiterreifegrad, wenn ...
-A) Kompetenz sinkt, Commitment steigt
-B) Kompetenz und Commitment beide hoch sind
-C) Nur Commitment hoch ist
-D) Nur Kompetenz hoch ist und Commitment niedrig
-✅ Richtige Antwort: B
-📝 Reife verlangt beides: Fähigkeit und Wille.
-
-73. Welche Führungsaktivität dominiert beim Stil 'Anweisen'?
-A) Hohe Aufgabenorientierung, niedrige Mitarbeiterorientierung
-B) Hohe Mitarbeiter‑, niedrige Aufgabenorientierung
-C) Beides hoch
-D) Beides niedrig
-✅ Richtige Antwort: A
-📝 Telling = stark strukturiert, wenig Beziehung.
-
-74. Welche Gefahr besteht, wenn Delegieren zu früh eingesetzt wird?
-A) Demotivation durch Überforderung
-B) Übermäßige Kontrolle
-C) Redundante Kommunikation
-D) Unklare Aufgabenverteilung
-✅ Richtige Antwort: A
-📝 Mitarbeiter mit zu geringer Reife erleben Verantwortung als belastend.
-
-75. Kairologische Führung richtet sich primär nach ...
-A) festen Zeitplänen
-B) Mitarbeiterkompetenzen
-C) Qualität des Augenblicks
-D) Budgetrestriktionen
-✅ Richtige Antwort: C
-📝 Kairos bezeichnet den 'rechten', günstigen Moment.
-
-76. Welches Beispiel widerspricht dem Prinzip kairologischer Führung?
-A) Spontanes Lob bei erbrachter Extraleistung
-B) Monatliches Standardfeedback am definierten Termin
-C) Einschritt, wenn Konflikt eskaliert
-D) Entscheidung bei Marktchance sofort investieren
-✅ Richtige Antwort: B
-📝 Standardisiert nach Chronos ignoriert situative Passung.
-
-77. Im Managerial Grid steht die x‑Achse für ...
-A) Mitarbeiterorientierung
-B) Aufgabenorientierung
-C) Organisationsstruktur
-D) Machtverteilung
-✅ Richtige Antwort: B
-📝 X = concern for production / Aufgaben.
-
-78. Ein Manager mit Ausprägung 1.9 zeigt ...
-A) geringe Aufgabe, hohe Personenorientierung
-B) hohe Aufgabe, geringe Personenorientierung
-C) beides hoch
-D) beides niedrig
-✅ Richtige Antwort: A
-📝 1.9 = Country Club Style.
-
-79. Welcher Führungsstil wird als ineffizient und gleichgültig bewertet?
-A) 9.9
-B) 1.1
-C) 5.5
-D) 9.1
-✅ Richtige Antwort: B
-📝 1.1 (Impoverished) zeigt minimalen Einsatz in beiden Dimensionen.
-
-80. Welche Emotion gehört NICHT zu Ekmans Basisemotionen?
-A) Überraschung
-B) Ekel
-C) Scham
-D) Verachtung
-✅ Richtige Antwort: C
-📝 Scham ist komplex und kulturabhängig.
-
-81. Ekmans Forschung verwendete primär welche Methode zur Identifikation universeller Emotionen?
-A) Hirnscans
-B) Gesichtsausdrucksfotografien in unterschiedlichen Kulturen
-C) Selbstberichtfragebögen
-D) Psychoanalytische Interviews
-✅ Richtige Antwort: B
-📝 Fotos wurden verschiedenen Kulturen gezeigt und interpretiert.
-
-82. Welches physiologische Muster ist typisch für Angst?
-A) Erhöhte Herzfrequenz und Muskelspannung
-B) Erniedrigter Blutdruck
-C) Vagusaktivierung
-D) Geringe Hautleitfähigkeit
-✅ Richtige Antwort: A
-📝 Fight‑or‑flight Reaktion aktiviert Sympathikus.
-
-83. Verachtung unterscheidet sich von Wut durch ...
-A) aggressive Handlungstendenz
-B) sozialen Statusvergleich und Abwertung
-C) physische Erregung
-D) auftretende Schweißproduktion
-✅ Richtige Antwort: B
-📝 Verachtung kommuniziert Überlegenheit gegenüber dem Abgewerteten.
-
-84. Nach Schachter & Singer entsteht Emotion, wenn ...
-A) physiologische Erregung fehlt
-B) physiologische Erregung kognitiv interpretiert wird
-C) kognitive Bewertung ohne Erregung ist
-D) Reizschwelle unterschritten wird
-✅ Richtige Antwort: B
-📝 Emotion = Arousal + cognitive label.
-
-85. Das berühmte Adrenalin‑Placebo‑Experiment zeigte, dass ...
-A) nur Adrenalin Emotionen auslöst
-B) Interpretation der Erregung Lage‑abhängig ist
-C) Placebo dieselbe Wirkung hat wie Adrenalin
-D) Erregung immer Angst bedeutet
-✅ Richtige Antwort: B
-📝 Konföderierter beeinflusste Deutung der unspezifischen Erregung.
-
-86. Welche Bedingung führt laut Theorie am ehesten zu Fehlattribution von Erregung?
-A) korrekte Situationsaufklärung
-B) unspezifische Erregung plus mehrdeutige Situation
-C) keine Erregung
-D) spezifische phobische Reize
-✅ Richtige Antwort: B
-📝 Mehrdeutigkeit begünstigt falsches Zuschreiben der Erregungsquelle.
-
-87. Welcher Faktor zählt NICHT zu den Burnout‑Schutzfaktoren des GuPF‑Modells?
-A) Personenbezug
-B) Ganzheitlichkeit
-C) Rollenunklarheit
-D) Förderlichkeit
-✅ Richtige Antwort: C
-📝 Rollenunklarheit erhöht Stress, ist kein Schutzfaktor.
-
-88. Chronische Diskrepanz zwischen Einsatz und Rückmeldung verletzt vor allem ...
-A) Unmittelbarkeit
-B) Ganzheitlichkeit
-C) Förderlichkeit
-D) Personenbezug
-✅ Richtige Antwort: A
-📝 Fehlendes Feedback verhindert Regulation von Anstrengung.
-
-89. Ein Betrieb implementiert Job‑Rotation, um Monotonie abzubauen. Dies stärkt ...
-A) Ganzheitlichkeit und Förderlichkeit
-B) Personenbezug
-C) Unmittelbarkeit
-D) Altruismus
-✅ Richtige Antwort: A
-📝 Ganzheitlichere Aufgaben & Lernchancen vermindern Burnout‑Risiko.
-
-90. Das Realitätsprinzip ist Kernfunktion welcher Instanz?
-A) Es
-B) Ich
-C) Über‑Ich
-D) Selbst
-✅ Richtige Antwort: B
-📝 Das Ich vermittelt Wunschbefriedigung unter Berücksichtigung äußerer Realität.
-
-91. Welche Instanz enthält verinnerlichte moralische Normen?
-A) Ich
-B) Über‑Ich
-C) Es
+Welche Luhmann-Ebene ordnet Klauk Handeln zu?
+A) Interaktion
+B) Organisation
+C) Gesellschaft
 D) Bewusstsein
-✅ Richtige Antwort: B
-📝 Über‑Ich = Gewissen und Ich‑Ideal.
-
-92. Ein Abwehrmechanismus, bei dem eigene inakzeptable Impulse anderen zugeschrieben werden, heißt ...
-A) Sublimierung
-B) Projektion
-C) Verschiebung
-D) Reaktionsbildung
-✅ Richtige Antwort: B
-📝 Projektion transferiert Triebimpulse auf externe Objekte.
-
-93. Nach Freud entsteht neurotische Angst, wenn ...
-A) Es‑Impulse das Ich gar nicht erreichen
-B) Ich Kontrollverlust gegenüber Es‑Impulsen befürchtet
-C) Über‑Ich zu schwach ausgebildet ist
-D) Realangst völlig fehlt
-✅ Richtige Antwort: B
-📝 Ich fürchtet, die Triebimpulse könnten unkontrolliert Handlungen auslösen.
-
-94. Welche Fixierung kann sich laut Freud in übertriebener Ordnungsliebe äußern?
-A) orale
-B) anale
-C) phallische
-D) genitale
-✅ Richtige Antwort: B
-📝 Eine anal‑retentive Fixierung führt zu Perfektionismus und Sparsamkeit.
-
-95. In welcher Phase entwickelt sich nach Freud der Ödipuskomplex?
-A) orale
-B) anale
-C) phallische
-D) latenz
-✅ Richtige Antwort: C
-📝 Phallische Phase (3‑6 Jahre) beinhaltet Identifikation mit gleichgeschlechtlichem Elternteil.
-
-96. Welche Kennzeichen sind typisch für die Latenzphase?
-A) Starke sexuelle Interessen
-B) Aufbau sozialer und kognitiver Fähigkeiten
-C) Dominanz oraler Lust
-D) Konflikt mit Kotribimpuls
-✅ Richtige Antwort: B
-📝 Sexualität tritt zurück, Lernen und soziale Regeln rücken in den Vordergrund.
-
-97. Die orale Phase spielt eine zentrale Rolle für die Entwicklung von ...
-A) Urvertrauen
-B) Schuldfähigkeit
-C) Moralischer Bewertung
-D) Abstraktem Denken
-✅ Richtige Antwort: A
-📝 Befriedigung oraler Bedürfnisse legt Basis für Vertrauen in die Umwelt.
-
-98. Erstmalige Ausrichtung der Libido auf eine Partnerbeziehung findet in welcher Phase statt?
-A) anale
-B) phallische
-C) genitale
-D) orale
-✅ Richtige Antwort: C
-📝 Die genitale Phase (Pubertät) führt zu reifer Sexualität.
-
-99. Nomothetische Forschung zielt primär auf ...
-A) Beschreibung individueller Einzelfälle
-B) Formulierung allgemeiner Gesetzmäßigkeiten
-C) Erstellung ausführlicher Fallstudien
-D) Interpretation subjektiver Erlebnisse
-✅ Richtige Antwort: B
-📝 Nomothetisch = Gesetzesfindung über Gruppen hinweg.
-
-100. Welche Methode ist typisch idiographisch?
-A) Experimentelle Massenbefragung
-B) Längsschnitt‑Fallstudie eines Patienten
-C) Metaanalyse
-D) Korrelation zwischen Stress und Leistung bei N > 300
-✅ Richtige Antwort: B
-📝 Idiographisch = detaillierte Betrachtung Einzelner.
-
-101. Ein wesentliches Merkmal wissenschaftlicher Psychologie im Unterschied zur Alltagspsychologie ist ...
-A) Verwendung introspektiver Methoden
-B) systematische Kontrolle von Störvariablen
-C) Gebrauch anekdotischen Evidenz
-D) Verzicht auf Hypothesentestung
-✅ Richtige Antwort: B
-📝 Exakte Kontrolle ermöglicht gültige Schlussfolgerungen.
-
-102. Der sogenannte Bestätigungsfehler (confirmation bias) macht Alltagspsychologie problematisch, weil ...
-A) Er Theoriebildung verhindert
-B) Er widersprüchliche Evidenz überbewertet
-C) Er nur in Laborstudien vorkommt
-D) Er selektiv Informationen stützt, die Erwartungen entsprechen
 ✅ Richtige Antwort: D
-📝 Menschen suchen/interpretieren Informationen bevorzugt passend zu Vorannahmen.
+📝 Handlungen entstehen auf der individuellen Bewusstseinsebene.
 
-103. Das Kreismodell der Führung unterscheidet sich vom Spitzenmodell vor allem durch ...
-A) hierarchische Ebene der Kontrolle
-B) Partizipation aller Mitglieder an Entscheidungsprozessen
-C) Rolle der externen Stakeholder
-D) Fehlen von Kommunikation
-✅ Richtige Antwort: B
-📝 Im Kreismodell sind Verantwortung und Entscheidungsrechte verteilt.
-
-104. Welche Herausforderung kann beim Übergang vom Spitzen‑ zum Kreismodell entstehen?
-A) Erhöhte Kommunikationskosten
-B) Übermäßige Autoritätskonzentration
-C) Intransparente Aufgabenverteilung
-D) Mangel an Motivation
-✅ Richtige Antwort: A
-📝 Dezentrale Abstimmung erfordert mehr Koordinationsaufwand.
-
-105. Im Drei‑Speicher‑Modell bezeichnet der ikonische Speicher ...
-A) auditives sensorisches Gedächtnis
-B) visuelles sensorisches Gedächtnis
-C) Langzeitgedächtnis
-D) episodisches Gedächtnis
-✅ Richtige Antwort: B
-📝 Icon = visuell; hält Millisekunden an.
-
-106. Die Kapazität des Kurzzeitgedächtnisses beschreibt Miller klassisch als ...
-A) 3±1 Chunks
-B) 5±2 Chunks
-C) 7±2 Chunks
-D) 9±2 Chunks
+Eysencks Dimension Psychotizismus korreliert nach Befunden am stärksten mit …
+A) Dopamin-Aktivität
+B) Cortisol-Basalwert
+C) Testosteron-Spiegel
+D) Serotonin-Turnover
 ✅ Richtige Antwort: C
-📝 Miller (1956) nannte 'magical number seven'.
+📝 Studien zeigen positive Zusammenhänge zwischen Testosteron und Psychotizismus.
 
-107. Welcher Prozess transferiert Information vom KZG ins LZG?
-A) Habituation
-B) Elaborative Rehearsal
-C) Orienting Response
-D) Prozeduralisierung
-✅ Richtige Antwort: B
-📝 Tiefes inhaltliches Verarbeiten (Elaboration) fördert Speicherung.
+Welche Aussage zur Temperamentslehre ist sachlich falsch?
+A) Sanguiniker – warm, heiter
+B) Choleriker – gelbe Galle dominiert
+C) Phlegmatiker – kältes Duratus
+D) Melancholiker – schwarze Galle
+✅ Richtige Antwort: C
+📝 „Duratus“ gehört nicht zum humoralpathologischen Schema.
 
-108. Ein Experiment zeigt, dass Probanden sich an späte Listenelemente gut erinnern, wenn unmittelbar abgefragt wird. Dies ist der ...
-A) Primacy‑Effekt
-B) Recency‑Effekt
-C) Spacing‑Effekt
-D) Zeigarnik‑Effekt
+Im Formelausdruck V = f(P,E) steht E für …
+A) Erfahrung
+B) Energielevel
+C) Environment (Umwelt)
+D) Erwartung
+✅ Richtige Antwort: C
+📝 Verhalten resultiert aus Person und wahrgenommener Umwelt.
+
+Ein Annäherungs-Annäherungs-Konflikt liegt vor, wenn …
+A) eine Handlung positive und negative Konsequenzen hat.
+B) zwei ähnlich attraktive Ziele bestehen.
+C) zwei aversive Ziele drohen.
+D) Annäherung ein Meidungsmotiv hemmt.
 ✅ Richtige Antwort: B
-📝 Recency beruht auf Items, die noch im KZG präsent sind.
+📝 Zwei positiv besetzte Valenzen konkurrieren um Realisierung.
+
+Welche Intervention verändert nach Lewin primär die Kraftfeld-Valenz?
+A) Bedürfnisdeprivation
+B) Informationszufuhr
+C) Physische Barrieren erhöhen
+D) Zielobjekt entwerten
+✅ Richtige Antwort: D
+📝 Valenz = Attraktivität; Entwertung senkt Anziehungskraft.
+
+Lewins Konzept „Life-Space“ umfasst nicht …
+A) Vergangene Ereignisse
+B) Wahrgenommene Umwelt-Faktoren
+C) Fremdperzipierte Realitäten
+D) Bedürfnisse der Person
+✅ Richtige Antwort: A
+📝 Der Lebensraum bezieht sich auf gegenwärtige subjektive Faktoren.
+
+Die Vektoraddition in topologischen Karten beschreibt …
+A) Summation motivationaler Kräfte
+B) Interferenz neuronaler Signale
+C) Kovarianz zweier Traits
+D) Metrik des Real-Raums
+✅ Richtige Antwort: A
+📝 Motivationale Kräfte werden als Vektoren geometrisch addiert.
+
+Welche Reihenfolge reflektiert die zunehmende Proaktivität der fünf Strategien?
+A) Korrektiv → Präventiv → Prospektiv → Differenziell → Dynamisch
+B) Präventiv → Korrektiv → Prospektiv → Dynamisch → Differenziell
+C) Prospektiv → Korrektiv → Präventiv → Differenziell → Dynamisch
+D) Korrektiv → Prospektiv → Präventiv → Dynamisch → Differenziell
+✅ Richtige Antwort: A
+📝 Die Strategiepalette erweitert sich von reaktivem Korrigieren bis hin zu dynamischer Selbstorganisation.
+
+Der TOP-Ansatz fordert zuerst …
+A) Personelle Maßnahmen
+B) Organisatorische Maßnahmen
+C) Technische Maßnahmen
+D) Paralleleinsatz aller Ebenen
+✅ Richtige Antwort: C
+📝 Zuerst wird die Technik optimiert, dann Organisation, dann Person (T-O-P).
+
+Eine Arbeitsplatz-Rotation erfüllt primär welches GuPF-Kriterium?
+A) Ganzheitlichkeit
+B) Anforderungsvielfalt
+C) Zeitelastizität
+D) Autonomie
+✅ Richtige Antwort: B
+📝 Verschiedene Aufgabenanteile erhöhen die Anforderungsvielfalt.
+
+Differenzielle Arbeitsgestaltung unterscheidet sich von prospektiver v. a. durch …
+A) Fokus auf Gruppenebene
+B) Angebot mehrerer Strukturvarianten
+C) Belastungsreduzierung
+D) Ergonomische Optimierung
+✅ Richtige Antwort: B
+📝 Beschäftigte wählen zwischen passgenauen Strukturalternativen.
+
+Welche Kennzahl gehört nicht zur Bewertungsebene „Ausführbarkeit“?
+A) Anthropometrische Norm
+B) Sinnesschwellen
+C) Zeitelastizität
+D) Geeignete Arbeitsmittel
+✅ Richtige Antwort: C
+📝 Zeitelastizität zählt zur GuPF-Ebene „Gestaltungsfähigkeit“.
+
+Zeitelastizität wirkt laut Klauk vorrangig gegen …
+A) Monotonie
+B) Arbeitsverdichtung
+C) Fehlbeanspruchung
+D) Fehlzeiten
+✅ Richtige Antwort: B
+📝 Flexible Puffer kompensieren Dichte und Tempo.
+
+Ein typisches Realisationsmittel für Zeitelastizität ist …
+A) Bandbreitenmodell
+B) Schichtrotation
+C) Stücklohn
+D) Job Enrichment
+✅ Richtige Antwort: A
+📝 Gleitzeit mit Kern- und Bandbreitenzeiten schafft Puffer.
+
+Welcher psychische Effekt soll durch Zeitelastizität direkt begünstigt werden?
+A) Flow-Erleben
+B) Vigilanz
+C) Zeitsouveränität
+D) Soziale Kohäsion
+✅ Richtige Antwort: C
+📝 Selbst bestimmbares Arbeitstempo erhöht wahrgenommene Kontrolle.
+
+Bei hohem Anteil unberechenbarer Störereignisse ist Zeitelastizität …
+A) kontraindiziert
+B) nur durch Automation erreichbar
+C) besonders wichtig
+D) irrelevant
+✅ Richtige Antwort: C
+📝 Puffer absorbieren Varianz und sichern Zielerreichung.
+
+Welche GuPF-Komponente korreliert empirisch am stärksten mit Zeitelastizität?
+A) Autonomie
+B) Rückmeldung
+C) Ganzheitlichkeit
+D) Lernmöglichkeiten
+✅ Richtige Antwort: A
+📝 Beide erhöhen den individuellen Handlungsspielraum.
+
+Das Gesetz des Effekts postuliert, dass …
+A) Kontiguität entscheidend ist.
+B) Verstärkung die Reiz-Reaktions-Assoziation stärkt.
+C) Hemmung des CS die CR löscht.
+D) Bestrafung Latenz verkürzt.
+✅ Richtige Antwort: B
+📝 Belohnte Reaktionen werden wahrscheinlicher gezeigt.
+
+Eine negative Verstärkung liegt vor, wenn …
+A) ein aversiver Reiz wegfällt.
+B) ein positiver Reiz hinzukommt.
+C) ein aversiver Reiz zugefügt wird.
+D) ein positiver Reiz entzogen wird.
+✅ Richtige Antwort: A
+📝 Entfernen eines unangenehmen Stimulus erhöht die Verhaltenshäufigkeit.
+
+Welche Kombination (CS–UCS–CR) ist logisch korrekt?
+A) Licht – Stromschlag – Annäherung
+B) Ton – Futter – Speichelfluss
+C) Duft – Licht – Übelkeit
+D) Klick – Wasser – Flucht
+✅ Richtige Antwort: B
+📝 Im Pavlov-Paradigma löst der konditionierte Stimulus (Ton) nach Kopplung Speichelfluss aus.
+
+Operantes Konditionieren unterscheidet sich vom klassischen, weil …
+A) Reaktion vor Reiz stattfindet.
+B) Konsequenzen die Reaktionswahrscheinlichkeit modulieren.
+C) es keine Generalisierung gibt.
+D) Kontiguität irrelevant ist.
+✅ Richtige Antwort: B
+📝 Verhalten → Konsequenz → Lernen kennzeichnet operantes Konditionieren.
+
+Welche Verstärkungsart ist am löschungsresistentesten?
+A) Kontinuierliche Verstärkung
+B) Fester Quotenplan
+C) Variable Intervall-Verstärkung
+D) Fester Intervall-Plan
+✅ Richtige Antwort: C
+📝 Unvorhersehbare Intervalle verhindern Erwartungsaufbau und Extinktion.
+
+Die typische Kapazität des Arbeitsgedächtnisses beträgt laut Atkinson & Shiffrin …
+A) ~4 Chunks
+B) ~7 Chunks (±2)
+C) ~12 Chunks
+D) unbegrenzt
+✅ Richtige Antwort: B
+📝 Miller nannte die „magische Zahl Sieben“.
+
+Chunking verbessert Speicherung, indem es …
+A) sensorische Persistenz erhöht.
+B) semantische Tiefe senkt.
+C) mehrere Items zu einer Bedeutungseinheit bündelt.
+D) retroaktive Interferenz nutzt.
+✅ Richtige Antwort: C
+📝 Verbundene Einheiten belegen nur einen Speicherslot.
+
+Welche Aussage zum sensorischen Gedächtnis ist falsch?
+A) Modalitätsspezifisch
+B) Speichert Informationen Millisekunden-Sekunden
+C) Enthält ikonisches und echoisches Register
+D) Kapazität auf 7 Chunks begrenzt
+✅ Richtige Antwort: D
+📝 Das Register hat große Kapazität, aber ultrakurze Dauer.
+
+Transfer ins Langzeitgedächtnis misslingt am ehesten, wenn …
+A) elaborative Wiederholung fehlt.
+B) Primacy-Items vorhanden sind.
+C) Kontext-Kongruenz hoch ist.
+D) Semantische Netzwerke aktiviert werden.
+✅ Richtige Antwort: A
+📝 Ohne tiefe Verarbeitung bleiben Infos flüchtig.
+
+Welche Intervention verstärkt Abruf durch Encoding-Specificity?
+A) Lernen in wechselnden Räumen
+B) Emotional kontrastierende Lern-/Abruf-Stimmung
+C) Identischer Kontext bei Einprägung und Test
+D) Reine Wiederholungs-Listen
+✅ Richtige Antwort: C
+📝 Kontextübereinstimmung maximiert Erinnerung.
